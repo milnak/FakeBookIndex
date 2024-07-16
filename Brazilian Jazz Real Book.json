@@ -1,0 +1,837 @@
+[
+  {
+    "Page": 1,
+    "Title": "Ah! Se Eu Pudesse",
+    "Composer": "Roberto Menescal & Ronaldo Boscoli"
+  },
+  {
+    "Page": 2,
+    "Title": "Amanha",
+    "Composer": "Pascoal Meirelles"
+  },
+  {
+    "Page": 3,
+    "Title": "Amazonas",
+    "Composer": "Joao Donato & Lysias Enio"
+  },
+  {
+    "Page": 4,
+    "Title": "Amor Certinho",
+    "Composer": "Roberto Guimaraes"
+  },
+  {
+    "Page": 5,
+    "Title": "Amor em Paz",
+    "Composer": "Tom & Vinicius"
+  },
+  {
+    "Page": 6,
+    "Title": "A Morte de um Deus do Sal",
+    "Composer": "Roberto Menescal & Ronaldo Boscoli"
+  },
+  {
+    "Page": 7,
+    "Title": "Anos Dourados",
+    "Composer": "Tom & Chico Buarque"
+  },
+  {
+    "Page": 8,
+    "Title": "A Paz",
+    "Composer": "Joao Donato & Gilberto Gil"
+  },
+  {
+    "Page": 9,
+    "Title": "Aquarela do Brasil",
+    "Composer": "Ary Barroso"
+  },
+  {
+    "Page": 11,
+    "Title": "Aquela Coisa",
+    "Composer": "Hermeto Pascoal"
+  },
+  {
+    "Page": 13,
+    "Title": "Aquela Valsa",
+    "Composer": "Hermeto Pascoal"
+  },
+  {
+    "Page": 15,
+    "Title": "Aqui, Oh!",
+    "Composer": "Toninho Horta & Fernando Brant"
+  },
+  {
+    "Page": 17,
+    "Title": "A Ra",
+    "Composer": "Joao Donato & Caetano Veloso"
+  },
+  {
+    "Page": 18,
+    "Title": "Arambare",
+    "Composer": "Flavio Goulart"
+  },
+  {
+    "Page": 20,
+    "Title": "Arte de Voar",
+    "Composer": "Nelson Ayres"
+  },
+  {
+    "Page": 22,
+    "Title": "Ate quem Sabe",
+    "Composer": "Joao Donato & Lysias Enio"
+  },
+  {
+    "Page": 23,
+    "Title": "Aula de Matematica",
+    "Composer": "Tom & Marino Pinto"
+  },
+  {
+    "Page": 25,
+    "Title": "Balanco Zona Sul",
+    "Composer": "Tito Madi"
+  },
+  {
+    "Page": 26,
+    "Title": "Batida Diferente",
+    "Composer": "Mauricio Einhorn & Durval Ferreira"
+  },
+  {
+    "Page": 27,
+    "Title": "Beatriz",
+    "Composer": "Edu Lobo & Chico Buarque"
+  },
+  {
+    "Page": 29,
+    "Title": "Bebe",
+    "Composer": "Hermeto Pascoal"
+  },
+  {
+    "Page": 31,
+    "Title": "Beijo Partido",
+    "Composer": "Toninho Horta"
+  },
+  {
+    "Page": 33,
+    "Title": "Bolinha de Papel",
+    "Composer": "Geraldo Pereira"
+  },
+  {
+    "Page": 34,
+    "Title": "Bota na Roda",
+    "Composer": "Flavio Goulart"
+  },
+  {
+    "Page": 37,
+    "Title": "Brigas Nunca Mais",
+    "Composer": "Tom & Vinicius"
+  },
+  {
+    "Page": 38,
+    "Title": "Brisa do Mar",
+    "Composer": "Joao Donato & Abel Silva"
+  },
+  {
+    "Page": 39,
+    "Title": "Bye Bye Brasil",
+    "Composer": "Roberto Menescal & Chico Buarque"
+  },
+  {
+    "Page": 40,
+    "Title": "Cacador de Mim",
+    "Composer": "Milton Nascimento"
+  },
+  {
+    "Page": 41,
+    "Title": "Camburi",
+    "Composer": "Flavio Goulart"
+  },
+  {
+    "Page": 43,
+    "Title": "Caminho de Casa",
+    "Composer": "Nelson Ayres"
+  },
+  {
+    "Page": 44,
+    "Title": "Caminhos Cruzados",
+    "Composer": "Tom & Newton Mendonca"
+  },
+  {
+    "Page": 46,
+    "Title": "Cancao que Morre No Ar",
+    "Composer": "Carlos Lyra & Ronaldo Boscoli"
+  },
+  {
+    "Page": 47,
+    "Title": "Carinhoso",
+    "Composer": "Pixinguinha & Joao de Barro"
+  },
+  {
+    "Page": 49,
+    "Title": "Carioca",
+    "Composer": "Marcio Montarroyos"
+  },
+  {
+    "Page": 51,
+    "Title": "Cego Aderaldo",
+    "Composer": "Egberto Gismonti"
+  },
+  {
+    "Page": 53,
+    "Title": "Chansong",
+    "Composer": "Tom Jobim"
+  },
+  {
+    "Page": 55,
+    "Title": "Chega de Saudade",
+    "Composer": "Tom Jobim"
+  },
+  {
+    "Page": 57,
+    "Title": "Chora Tua Tristeza",
+    "Composer": "Oscar Castro Neves & Luvercy Fiorini"
+  },
+  {
+    "Page": 59,
+    "Title": "Chorinho Pra Ele",
+    "Composer": "Hermeto Pascoal"
+  },
+  {
+    "Page": 61,
+    "Title": "Choro Negro",
+    "Composer": "Paulinho da Viola"
+  },
+  {
+    "Page": 63,
+    "Title": "Chovendo na Roseira",
+    "Composer": "Tom Jobim"
+  },
+  {
+    "Page": 66,
+    "Title": "Chuva",
+    "Composer": "Durval Ferreira & Pedro Camargo"
+  },
+  {
+    "Page": 67,
+    "Title": "Ciume",
+    "Composer": "Carlos Lyra"
+  },
+  {
+    "Page": 68,
+    "Title": "Coisa Mais Linda",
+    "Composer": "Carlos Lyra & Vinicius"
+  },
+  {
+    "Page": 69,
+    "Title": "Comecaria Tudo Outra Vez",
+    "Composer": "Gonzaguinha"
+  },
+  {
+    "Page": 71,
+    "Title": "Como Uma Onda",
+    "Composer": "Lulu Santos"
+  },
+  {
+    "Page": 73,
+    "Title": "Corcovado",
+    "Composer": "Tom Jobim"
+  },
+  {
+    "Page": 74,
+    "Title": "Da Cor Brasileira",
+    "Composer": "Joyce"
+  },
+  {
+    "Page": 75,
+    "Title": "Deixa",
+    "Composer": "Baden & Vinicius"
+  },
+  {
+    "Page": 76,
+    "Title": "Deixa Q'Que Boto",
+    "Composer": "Flavio Goulart"
+  },
+  {
+    "Page": 78,
+    "Title": "Desafinado",
+    "Composer": "Tom & Newton Mendonca"
+  },
+  {
+    "Page": 80,
+    "Title": "Desatando o No",
+    "Composer": "Flavio Goulart"
+  },
+  {
+    "Page": 81,
+    "Title": "Descendo a Serra",
+    "Composer": "Pixinguinha e Benedito Lacerda"
+  },
+  {
+    "Page": 83,
+    "Title": "Deus Brasileiro",
+    "Composer": "Marcos & Paulo Sergio Valle"
+  },
+  {
+    "Page": 84,
+    "Title": "Dindi",
+    "Composer": "Tom & Aloysio de Oliveira"
+  },
+  {
+    "Page": 85,
+    "Title": "Discussao",
+    "Composer": "Tom & Newton Mendonca"
+  },
+  {
+    "Page": 86,
+    "Title": "Dois Pra La, Dois Pra Ca",
+    "Composer": "Joao Bosco & Aldir Blanc"
+  },
+  {
+    "Page": 88,
+    "Title": "Dolphin (The)",
+    "Composer": "Luiz Eca"
+  },
+  {
+    "Page": 89,
+    "Title": "Dom de Iludir",
+    "Composer": "Caetano Veloso"
+  },
+  {
+    "Page": 91,
+    "Title": "Doralice",
+    "Composer": "Dorival Caymmi & Antonio Almeida"
+  },
+  {
+    "Page": 93,
+    "Title": "Duas Contas",
+    "Composer": "Garoto"
+  },
+  {
+    "Page": 94,
+    "Title": "Drao",
+    "Composer": "Gilberto Gil"
+  },
+  {
+    "Page": 95,
+    "Title": "Ela e Carioca",
+    "Composer": "Tom & Vinicius"
+  },
+  {
+    "Page": 96,
+    "Title": "Espinha de Bacalhau",
+    "Composer": "Severino Araujo"
+  },
+  {
+    "Page": 99,
+    "Title": "Esquenta-Por-Dentro",
+    "Composer": "Flavio Goulart"
+  },
+  {
+    "Page": 101,
+    "Title": "Esquilo Rosa",
+    "Composer": "Flavio Goulart"
+  },
+  {
+    "Page": 103,
+    "Title": "Essa Mulher",
+    "Composer": "Joyce"
+  },
+  {
+    "Page": 104,
+    "Title": "Esse Cara",
+    "Composer": "Caetano Veloso"
+  },
+  {
+    "Page": 105,
+    "Title": "Estamos Ai",
+    "Composer": "Mauricio Einhorn, Durval Ferreira e Regina Werneck"
+  },
+  {
+    "Page": 106,
+    "Title": "Este Seu Olhar",
+    "Composer": "Tom Jobim"
+  },
+  {
+    "Page": 107,
+    "Title": "Estrada do Sol",
+    "Composer": "Tom & Dolores Duran"
+  },
+  {
+    "Page": 108,
+    "Title": "Eu e a Brisa",
+    "Composer": "Johnny Alf"
+  },
+  {
+    "Page": 110,
+    "Title": "Eu Te Amo",
+    "Composer": "Tom & Chico Buarque"
+  },
+  {
+    "Page": 112,
+    "Title": "Evem o Carangueijo",
+    "Composer": "Flavio Goulart"
+  },
+  {
+    "Page": 115,
+    "Title": "Falando de Amor",
+    "Composer": "Tom Jobim"
+  },
+  {
+    "Page": 116,
+    "Title": "Falsa Baiana",
+    "Composer": "Geraldo Pereira"
+  },
+  {
+    "Page": 117,
+    "Title": "Fatima",
+    "Composer": "Hermeto Pascoal"
+  },
+  {
+    "Page": 119,
+    "Title": "Ferrovias",
+    "Composer": "Chico Medori-Grupo Medusa"
+  },
+  {
+    "Page": 121,
+    "Title": "Flora",
+    "Composer": "Gilberto Gil"
+  },
+  {
+    "Page": 123,
+    "Title": "Flor de Lis",
+    "Composer": "Djavan"
+  },
+  {
+    "Page": 125,
+    "Title": "Forro Brasil",
+    "Composer": "Hermeto Pascoal"
+  },
+  {
+    "Page": 126,
+    "Title": "Fotografia",
+    "Composer": "Tom Jobim"
+  },
+  {
+    "Page": 127,
+    "Title": "Frevo",
+    "Composer": "Egberto Gismonti"
+  },
+  {
+    "Page": 130,
+    "Title": "Frevo em Maceio",
+    "Composer": "Hermeto Pascoal"
+  },
+  {
+    "Page": 132,
+    "Title": "Giselle",
+    "Composer": "Heraldo do Monte"
+  },
+  {
+    "Page": 134,
+    "Title": "Ho-ba-la-la",
+    "Composer": "Joao Gilberto"
+  },
+  {
+    "Page": 135,
+    "Title": "Igarape",
+    "Composer": "Flavio Goulart"
+  },
+  {
+    "Page": 138,
+    "Title": "Iluminada",
+    "Composer": "Egberto Gismonti"
+  },
+  {
+    "Page": 140,
+    "Title": "Influencia do Jazz",
+    "Composer": "Carlos Lyra"
+  },
+  {
+    "Page": 142,
+    "Title": "Ingenuo",
+    "Composer": "Pixinguinha & Benedito Lacerda"
+  },
+  {
+    "Page": 144,
+    "Title": "Insensatez",
+    "Composer": "Tom & Vinicius"
+  },
+  {
+    "Page": 145,
+    "Title": "Inutil Paisagem",
+    "Composer": "Tom & Aloysio de Oliveira"
+  },
+  {
+    "Page": 146,
+    "Title": "Isaura",
+    "Composer": "Herivelto Martins & Roberto Roberti"
+  },
+  {
+    "Page": 147,
+    "Title": "Isso e o Boi",
+    "Composer": "Flavio Goulart"
+  },
+  {
+    "Page": 150,
+    "Title": "Karate",
+    "Composer": "Egberto Gismonti"
+  },
+  {
+    "Page": 152,
+    "Title": "Lamentos",
+    "Composer": "Pixinguinha & Vinicius"
+  },
+  {
+    "Page": 154,
+    "Title": "Ligia",
+    "Composer": "Tom Jobim"
+  },
+  {
+    "Page": 155,
+    "Title": "Loro",
+    "Composer": "Egberto Gismonti"
+  },
+  {
+    "Page": 157,
+    "Title": "Louco Por Voce",
+    "Composer": "Caetano Veloso"
+  },
+  {
+    "Page": 159,
+    "Title": "Lua de Sao Jorge",
+    "Composer": "Caetano Veloso"
+  },
+  {
+    "Page": 160,
+    "Title": "Lugar Comum",
+    "Composer": "Joao Donato & Gilberto Gil"
+  },
+  {
+    "Page": 161,
+    "Title": "Luiza",
+    "Composer": "Tom Jobim"
+  },
+  {
+    "Page": 163,
+    "Title": "Madrugada",
+    "Composer": "Flavio Goulart"
+  },
+  {
+    "Page": 165,
+    "Title": "Maracatu",
+    "Composer": "Egberto Gismonti"
+  },
+  {
+    "Page": 167,
+    "Title": "Melancia",
+    "Composer": "Rique Pantoja-Grupo Cama de Gato"
+  },
+  {
+    "Page": 168,
+    "Title": "Menino do Rio",
+    "Composer": "Caetano Veloso"
+  },
+  {
+    "Page": 169,
+    "Title": "Meu Bem, Meu Mal",
+    "Composer": "Caetano Veloso"
+  },
+  {
+    "Page": 171,
+    "Title": " Meu Bem Querer",
+    "Composer": "Djavan"
+  },
+  {
+    "Page": 173,
+    "Title": "Minha Saudade",
+    "Composer": "Joao Donato & Gilberto Gil"
+  },
+  {
+    "Page": 174,
+    "Title": "Montreux",
+    "Composer": "Hermeto Pascoal"
+  },
+  {
+    "Page": 175,
+    "Title": "Nada Sera Como Antes",
+    "Composer": "Milton Nascimento"
+  },
+  {
+    "Page": 176,
+    "Title": "Nordestina",
+    "Composer": "Olmir Stoclker-\"Alemao\"-Grupo Medusa"
+  },
+  {
+    "Page": 178,
+    "Title": "O Bebado e a Equilibrista",
+    "Composer": "Joao Bosco & Aldir Blanc"
+  },
+  {
+    "Page": 180,
+    "Title": "O Que e Amar",
+    "Composer": "Johnny Alf"
+  },
+  {
+    "Page": 182,
+    "Title": "Outra Vez",
+    "Composer": "Tom Jobim"
+  },
+  {
+    "Page": 184,
+    "Title": "O Ovo",
+    "Composer": "Hermeto Pascoal"
+  },
+  {
+    "Page": 185,
+    "Title": "Palhaco",
+    "Composer": "Egberto Gismonti"
+  },
+  {
+    "Page": 186,
+    "Title": "Petala",
+    "Composer": "Djavan"
+  },
+  {
+    "Page": 187,
+    "Title": "Poeira na Pomba",
+    "Composer": "Flavio Goulart"
+  },
+  {
+    "Page": 189,
+    "Title": "Ponta-de-Lanca",
+    "Composer": "Flavio Goulart"
+  },
+  {
+    "Page": 193,
+    "Title": "Ponto de Fusao",
+    "Composer": "Claudio Bertrami-Grupo Medusa"
+  },
+  {
+    "Page": 195,
+    "Title": "Por Causa de Voce",
+    "Composer": "Tom & Dolores Duran"
+  },
+  {
+    "Page": 196,
+    "Title": "Pra Machucar Meu Coracao",
+    "Composer": "Ary Barroso"
+  },
+  {
+    "Page": 197,
+    "Title": "Prece",
+    "Composer": "Durval Ferreira & Tiberio Gaspar"
+  },
+  {
+    "Page": 198,
+    "Title": "Preciso Aprender a Ser So",
+    "Composer": "Marcos & Paulo Sergio Valle"
+  },
+  {
+    "Page": 199,
+    "Title": "Primavera",
+    "Composer": "Carlos Lyra & Vinicius"
+  },
+  {
+    "Page": 201,
+    "Title": "Pro Brotinho",
+    "Composer": "Flavio Goulart"
+  },
+  {
+    "Page": 203,
+    "Title": "Puxa um Pescoco-Gelado",
+    "Composer": "Flavio Goulart"
+  },
+  {
+    "Page": 205,
+    "Title": "Rancho Fundo (No)",
+    "Composer": "Ary Barroso & Lamartine Babo"
+  },
+  {
+    "Page": 206,
+    "Title": "Rapaz de Bem",
+    "Composer": "Johnny Alf"
+  },
+  {
+    "Page": 208,
+    "Title": "Rebulico",
+    "Composer": "Hermeto Pascoal"
+  },
+  {
+    "Page": 210,
+    "Title": "Retrato em Branco e Preto",
+    "Composer": "Tom & Chico Buarque"
+  },
+  {
+    "Page": 211,
+    "Title": "Revendo Amigos",
+    "Composer": "Joyce"
+  },
+  {
+    "Page": 212,
+    "Title": "Rio",
+    "Composer": "Roberto Menescal & Ronaldo Boscoli"
+  },
+  {
+    "Page": 214,
+    "Title": "Sabe Voce",
+    "Composer": "Carlos Lyra & Vinicius"
+  },
+  {
+    "Page": 216,
+    "Title": "Samba do Aviao",
+    "Composer": "Tom Jobim"
+  },
+  {
+    "Page": 218,
+    "Title": "Samba do Carioca",
+    "Composer": "Carlos Lyra & Vinicius"
+  },
+  {
+    "Page": 219,
+    "Title": "Samba de Verao",
+    "Composer": "Marcos & Paulo Sergio Valle"
+  },
+  {
+    "Page": 220,
+    "Title": "Sangrando",
+    "Composer": "Gonzaguinha"
+  },
+  {
+    "Page": 222,
+    "Title": "Saudade Fez Um Samba",
+    "Composer": "Carlos Lyra & Ronaldo Boscoli"
+  },
+  {
+    "Page": 223,
+    "Title": "Se E Tarde Me Perdoa",
+    "Composer": "Carlos Lyra & Ronaldo Boscoli"
+  },
+  {
+    "Page": 224,
+    "Title": "Sete Aneis",
+    "Composer": "Egberto Gismonti"
+  },
+  {
+    "Page": 226,
+    "Title": "Setembro",
+    "Composer": "Ivan Lins, Gilson Peranzzzetta & Vitor Martins"
+  },
+  {
+    "Page": 227,
+    "Title": "Se Eu Quiser Falar Com Deus",
+    "Composer": "Gilberto Gil"
+  },
+  {
+    "Page": 228,
+    "Title": "Sonho de Maria",
+    "Composer": "Marcos & Paulo Sergio Valle"
+  },
+  {
+    "Page": 230,
+    "Title": "Sonoroso",
+    "Composer": "K.Ximbinho"
+  },
+  {
+    "Page": 231,
+    "Title": "S6 Tinha de Ser Com Voce",
+    "Composer": "Tom & Aloysio de Oliveira"
+  },
+  {
+    "Page": 233,
+    "Title": "S6 Xote",
+    "Composer": "Nelson Ayres"
+  },
+  {
+    "Page": 234,
+    "Title": "Tardes na Tailandia (part1) e (part2)",
+    "Composer": "Toninho Horta"
+  },
+  {
+    "Page": 235,
+    "Title": "Telefone",
+    "Composer": "Roberto Menescal & Ronaldo Boscoli"
+  },
+  {
+    "Page": 236,
+    "Title": "Teletema",
+    "Composer": "Antonio Adolfo & Tiberio Gaspar"
+  },
+  {
+    "Page": 237,
+    "Title": "Tintim Por Tintim",
+    "Composer": "Haroldo Barbosa & Geraldo Jacques"
+  },
+  {
+    "Page": 239,
+    "Title": "Triste",
+    "Composer": "Tom Jobim"
+  },
+  {
+    "Page": 240,
+    "Title": "Tristeza de Nos Dois",
+    "Composer": "Mauricio Einhorn, Durval Ferreira e Bebeto"
+  },
+  {
+    "Page": 242,
+    "Title": "Trocando em Miudos",
+    "Composer": "Francis Hime & Chico Buarque"
+  },
+  {
+    "Page": 244,
+    "Title": "Um a Zero",
+    "Composer": "Pixinguinha & Benedito Lacerda"
+  },
+  {
+    "Page": 247,
+    "Title": "Vagamente",
+    "Composer": "Roberto Menescal & Ronaldo Boscoli"
+  },
+  {
+    "Page": 248,
+    "Title": "Vala-me!",
+    "Composer": "Flavio Goulart"
+  },
+  {
+    "Page": 250,
+    "Title": "Vidigal",
+    "Composer": "Oberdan Magalhaes-Grupo Index"
+  },
+  {
+    "Page": 252,
+    "Title": "Vivo Sonhando",
+    "Composer": "Tom Jobim"
+  },
+  {
+    "Page": 253,
+    "Title": "Voce e Linda",
+    "Composer": "Caetano Veloso"
+  },
+  {
+    "Page": 254,
+    "Title": "Voce Roberto",
+    "Composer": "Menescal & Ronaldo Boscoli"
+  },
+  {
+    "Page": 255,
+    "Title": "Voce e Eu",
+    "Composer": "Carlos Lyra & Vinicius"
+  },
+  {
+    "Page": 256,
+    "Title": "Voo dos Urubus",
+    "Composer": "Toninho Horta"
+  },
+  {
+    "Page": 258,
+    "Title": "Vou Vivendo",
+    "Composer": "Pixinguinha & Benedito Lacerda"
+  },
+  {
+    "Page": 260,
+    "Title": "Wave",
+    "Composer": "Tom Jobim"
+  },
+  {
+    "Page": 261,
+    "Title": "Zebi",
+    "Composer": "Claudio Bertrami-Grupo Medusa"
+  }
+]
