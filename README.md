@@ -10,9 +10,9 @@ A collection of "open source" fake book indexes which I've created as JSON based
 
 I've created these as I couldn't find an "open" fake book indexes -- theres some that are PDF that can't be converted to other formats. There's others that are in a proprietary binary format. And there's web sites that have searchable indexes, but you can't use them offline or convert them to other formats.
 
-## Where can I get these?
+## Where can I download these books?
 
-Do not ask me where you can find these books online. Check your favorite book seller. If they have it, buy it there. If not, I can't help you out, so please don't ask.
+Do not ask me where you can find these books online. Some are in the public domain, and others aren't. Check your favorite book seller. If they have it, buy it there. If not, I can't help you out, so please don't ask.
 
 ## Can I search these without downloading them?
 
