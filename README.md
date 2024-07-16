@@ -1,16 +1,18 @@
 # FakeBook Index
 
+Started July 2024.
+
 ## What is this?
 
 A collection of "open source" fake book indexes which I've created as JSON based on various lists I've found and have been able to scrape.
 
 ## Why did I create this?
 
-I've created these as I couldn't find an "open" fake book indexes -- theres some that are PDF that can't be converted to other formats. There's others that are in a closed binary format. And there's web sites that have searchable indexes, but you can't use them offline or convert them to other formats.
+I've created these as I couldn't find an "open" fake book indexes -- theres some that are PDF that can't be converted to other formats. There's others that are in a proprietary binary format. And there's web sites that have searchable indexes, but you can't use them offline or convert them to other formats.
 
 ## Where can I get these?
 
-Do not ask me where you can find these books online. Check your favorite book seller. If they have it, buy it there. If not, I can't help you out.
+Do not ask me where you can find these books online. Check your favorite book seller. If they have it, buy it there. If not, I can't help you out, so please don't ask.
 
 ## Format
 
@@ -29,6 +31,10 @@ Linux:
 ```bash
 cat 'Spaces 2.json' | jq --raw-output '["Page","Title","Composer"],(.[] | [.Page, .Title, .Composer]) | @csv'
 ```
+
+## I found a mistake or a book is missing
+
+## I found a mistake, or a book is missing!
 
 ## I found a mistake or a book is missing
 
