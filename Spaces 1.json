@@ -1,13 +1,18 @@
 [
   {
-    "Page": 67,
-    "Title": "'Scuse These Blues",
-    "Composer": "Quincy Jones"
+    "Page": 2,
+    "Title": "Family Joy, A",
+    "Composer": "Michael Gibbs"
   },
   {
-    "Page": 69,
-    "Title": "500 Miles High",
-    "Composer": "Chick Corea"
+    "Page": 4,
+    "Title": "Flower Is A Lovesome Thing",
+    "Composer": "Billy Strayhorn"
+  },
+  {
+    "Page": 5,
+    "Title": "Foggy Day, A",
+    "Composer": "George Gershwin"
   },
   {
     "Page": 6,
@@ -15,9 +20,9 @@
     "Composer": "John Lewis"
   },
   {
-    "Page": 108,
-    "Title": "All Alone",
-    "Composer": "Mal Waldron"
+    "Page": 7,
+    "Title": "Little Taste, A",
+    "Composer": "Cannonball Adderly"
   },
   {
     "Page": 8,
@@ -45,6 +50,11 @@
     "Composer": "Steve Swallow"
   },
   {
+    "Page": 14,
+    "Title": "Joker, The",
+    "Composer": "Lee Morgan"
+  },
+  {
     "Page": 15,
     "Title": "Autumn In Washington Squ",
     "Composer": "Dave Bruback"
@@ -55,34 +65,24 @@
     "Composer": "Donald Pickett, Recorded By Freddie Hubbard"
   },
   {
-    "Page": 228,
-    "Title": "Basie Goes Wess",
+    "Page": 16,
+    "Title": "Love Story",
     "Composer": ""
-  },
-  {
-    "Page": 229,
-    "Title": "Basie's Back in Town",
-    "Composer": ""
-  },
-  {
-    "Page": 106,
-    "Title": "Beautiful Love",
-    "Composer": "Victor Young"
-  },
-  {
-    "Page": 110,
-    "Title": "Bemsha Swing",
-    "Composer": "Thelonious Monk"
-  },
-  {
-    "Page": 226,
-    "Title": "Big Walk",
-    "Composer": "Quincy Jones"
   },
   {
     "Page": 17,
     "Title": "Black Angel",
     "Composer": "F. Hubbard"
+  },
+  {
+    "Page": 17,
+    "Title": "Blessing, The",
+    "Composer": "Ornette Coleman"
+  },
+  {
+    "Page": 18,
+    "Title": "Young & Foolish",
+    "Composer": ""
   },
   {
     "Page": 18,
@@ -95,19 +95,9 @@
     "Composer": "Joe Henderson"
   },
   {
-    "Page": 17,
-    "Title": "Blessing, The",
-    "Composer": "Ornette Coleman"
-  },
-  {
     "Page": 20,
     "Title": "Blue Bossa",
     "Composer": "Kenny Dorham"
-  },
-  {
-    "Page": 23,
-    "Title": "Blue In Green",
-    "Composer": "Miles Davis"
   },
   {
     "Page": 21,
@@ -115,19 +105,14 @@
     "Composer": "Thelonious Monk"
   },
   {
-    "Page": 224,
-    "Title": "Blues for the Count and Oscar",
-    "Composer": ""
+    "Page": 22,
+    "Title": "Bluesette",
+    "Composer": "Toots Thielmans"
   },
   {
-    "Page": 227,
-    "Title": "Blues Go Away",
-    "Composer": ""
-  },
-  {
-    "Page": 108,
-    "Title": "Blues in Orbit",
-    "Composer": "George Russell"
+    "Page": 23,
+    "Title": "Summertime",
+    "Composer": "Coltrane"
   },
   {
     "Page": 23,
@@ -135,9 +120,14 @@
     "Composer": "Benny Golson"
   },
   {
-    "Page": 22,
-    "Title": "Bluesette",
-    "Composer": "Toots Thielmans"
+    "Page": 23,
+    "Title": "Blue In Green",
+    "Composer": "Miles Davis"
+  },
+  {
+    "Page": 24,
+    "Title": "Moon Mist",
+    "Composer": "Duke Ellington"
   },
   {
     "Page": 25,
@@ -181,23 +171,13 @@
   },
   {
     "Page": 32,
-    "Title": "Canteloupe Island",
-    "Composer": "Herbie Hancock"
-  },
-  {
-    "Page": 32,
     "Title": "Canto Africano",
     "Composer": "Clare Fisher"
   },
   {
-    "Page": 53,
-    "Title": "Charcoal Blues",
-    "Composer": "Wayne Shorter"
-  },
-  {
-    "Page": 34,
-    "Title": "Chega De Saudade (No Mo",
-    "Composer": "rAntonio Carlos Jobim"
+    "Page": 32,
+    "Title": "Canteloupe Island",
+    "Composer": "Herbie Hancock"
   },
   {
     "Page": 33,
@@ -205,9 +185,9 @@
     "Composer": "Mel Torme"
   },
   {
-    "Page": 127,
-    "Title": "Circle",
-    "Composer": "Miles Davis"
+    "Page": 34,
+    "Title": "Chega De Saudade (No Mo",
+    "Composer": "rAntonio Carlos Jobim"
   },
   {
     "Page": 36,
@@ -215,14 +195,14 @@
     "Composer": "Eddie Harris"
   },
   {
+    "Page": 36,
+    "Title": "Mr. Jin",
+    "Composer": "Wayne Shorter"
+  },
+  {
     "Page": 37,
     "Title": "Come Sunday",
     "Composer": "Duke Ellington"
-  },
-  {
-    "Page": 39,
-    "Title": "Comin' Home Baby",
-    "Composer": "Earl Hagan"
   },
   {
     "Page": 38,
@@ -231,28 +211,23 @@
   },
   {
     "Page": 39,
+    "Title": "Cousin Mary",
+    "Composer": "John Coltrane"
+  },
+  {
+    "Page": 39,
+    "Title": "Comin' Home Baby",
+    "Composer": "Earl Hagan"
+  },
+  {
+    "Page": 39,
     "Title": "Contemplation",
     "Composer": "McCoy Tyner"
-  },
-  {
-    "Page": 165,
-    "Title": "Corcovado (Quiet Nights Of Quiet Stars)",
-    "Composer": "Antonio Carlos Jobim"
-  },
-  {
-    "Page": 78,
-    "Title": "Countdown",
-    "Composer": "John Coltrane"
   },
   {
     "Page": 40,
     "Title": "Country Roads",
     "Composer": "Gary Burton/Steve Swallow"
-  },
-  {
-    "Page": 39,
-    "Title": "Cousin Mary",
-    "Composer": "John Coltrane"
   },
   {
     "Page": 41,
@@ -265,14 +240,24 @@
     "Composer": "Jimmy Van Heusen"
   },
   {
+    "Page": 43,
+    "Title": "Days Of Wine And Roses",
+    "Composer": "Mercer/Mancici"
+  },
+  {
     "Page": 44,
     "Title": "Day Waves",
     "Composer": "Chick Corea"
   },
   {
-    "Page": 43,
-    "Title": "Days Of Wine And Roses",
-    "Composer": "Mercer/Mancici"
+    "Page": 45,
+    "Title": "Dindi",
+    "Composer": "Antonio Carlos Jobim"
+  },
+  {
+    "Page": 45,
+    "Title": "Diane's Melody",
+    "Composer": "Jackie Byard"
   },
   {
     "Page": 46,
@@ -285,14 +270,9 @@
     "Composer": "Chick Corea"
   },
   {
-    "Page": 45,
-    "Title": "Diane's Melody",
-    "Composer": "Jackie Byard"
-  },
-  {
-    "Page": 45,
-    "Title": "Dindi",
-    "Composer": "Antonio Carlos Jobim"
+    "Page": 50,
+    "Title": "Dolphin, The",
+    "Composer": "ECA"
   },
   {
     "Page": 51,
@@ -300,14 +280,19 @@
     "Composer": "Herbie Hancock"
   },
   {
-    "Page": 50,
-    "Title": "Dolphin, The",
-    "Composer": "ECA"
-  },
-  {
     "Page": 52,
     "Title": "Domingo",
     "Composer": "Benny Golson"
+  },
+  {
+    "Page": 53,
+    "Title": "Charcoal Blues",
+    "Composer": "Wayne Shorter"
+  },
+  {
+    "Page": 53,
+    "Title": "Joshua",
+    "Composer": "Victor Feldman"
   },
   {
     "Page": 54,
@@ -320,19 +305,14 @@
     "Composer": "Freddie Hubbard"
   },
   {
+    "Page": 55,
+    "Title": "Mercy, Mercy, Mercy",
+    "Composer": "Joe Zawinul"
+  },
+  {
     "Page": 56,
     "Title": "Dreamsville",
     "Composer": "Henry Mancini"
-  },
-  {
-    "Page": 64,
-    "Title": "E.S.P.",
-    "Composer": "Miles Davis"
-  },
-  {
-    "Page": 58,
-    "Title": "Eiderdown",
-    "Composer": "Steve Swallow"
   },
   {
     "Page": 57,
@@ -340,14 +320,14 @@
     "Composer": "Wayne Shorter"
   },
   {
+    "Page": 58,
+    "Title": "Eiderdown",
+    "Composer": "Steve Swallow"
+  },
+  {
     "Page": 60,
     "Title": "Elizete",
     "Composer": "Clare Fisher"
-  },
-  {
-    "Page": 110,
-    "Title": "Elsa",
-    "Composer": ""
   },
   {
     "Page": 61,
@@ -365,9 +345,9 @@
     "Composer": "Thelonious Monk"
   },
   {
-    "Page": 127,
-    "Title": "Eye of the Hurricane",
-    "Composer": "Herbie Hancock"
+    "Page": 64,
+    "Title": "E.S.P.",
+    "Composer": "Miles Davis"
   },
   {
     "Page": 65,
@@ -375,14 +355,24 @@
     "Composer": "Steve Swallow"
   },
   {
-    "Page": 2,
-    "Title": "Family Joy, A",
-    "Composer": "Michael Gibbs"
-  },
-  {
     "Page": 66,
     "Title": "Fancy Free",
     "Composer": "Donald Byrd"
+  },
+  {
+    "Page": 67,
+    "Title": "Softly, As in a Morning Sunrise",
+    "Composer": ""
+  },
+  {
+    "Page": 67,
+    "Title": "Grand Valse,. The",
+    "Composer": "Booker Little"
+  },
+  {
+    "Page": 67,
+    "Title": "'Scuse These Blues",
+    "Composer": "Quincy Jones"
   },
   {
     "Page": 68,
@@ -390,29 +380,24 @@
     "Composer": "Keith Jarrett"
   },
   {
-    "Page": 222,
-    "Title": "Five O'Clock in the Morning",
-    "Composer": "Joe Williams"
+    "Page": 69,
+    "Title": "500 Miles High",
+    "Composer": "Chick Corea"
   },
   {
-    "Page": 90,
-    "Title": "Floating Garden",
-    "Composer": "R. Eisenberg"
+    "Page": 70,
+    "Title": "Sweetest Sounds, The",
+    "Composer": ""
   },
   {
-    "Page": 4,
-    "Title": "Flower Is A Lovesome Thing",
-    "Composer": "Billy Strayhorn"
+    "Page": 70,
+    "Title": "Soul Eyees",
+    "Composer": ""
   },
   {
     "Page": 71,
     "Title": "Fly Me To The Moon",
     "Composer": "Bart Howard"
-  },
-  {
-    "Page": 5,
-    "Title": "Foggy Day, A",
-    "Composer": "George Gershwin"
   },
   {
     "Page": 72,
@@ -435,14 +420,19 @@
     "Composer": "Benny Golson"
   },
   {
+    "Page": 76,
+    "Title": "Marilia",
+    "Composer": "W. Bernnard"
+  },
+  {
     "Page": 77,
     "Title": "Freedom Jazz Dance",
     "Composer": "Eddie Harris"
   },
   {
-    "Page": 230,
-    "Title": "Georgie Porgie",
-    "Composer": ""
+    "Page": 78,
+    "Title": "Countdown",
+    "Composer": "John Coltrane"
   },
   {
     "Page": 78,
@@ -450,24 +440,24 @@
     "Composer": "John Coltrane"
   },
   {
-    "Page": 80,
-    "Title": "Girl From Ipanema, The",
-    "Composer": "Antonio Carlos Jobim"
-  },
-  {
     "Page": 79,
     "Title": "Girl In My Dreams, The",
     "Composer": "Johnny Hodges"
   },
   {
-    "Page": 81,
-    "Title": "Gloria's Step",
-    "Composer": "Scott Lafaro"
+    "Page": 80,
+    "Title": "Girl From Ipanema, The",
+    "Composer": "Antonio Carlos Jobim"
   },
   {
     "Page": 81,
     "Title": "God Bless The Child",
     "Composer": "Billie Holiday/Arthur Herzog"
+  },
+  {
+    "Page": 81,
+    "Title": "Gloria's Step",
+    "Composer": "Scott Lafaro"
   },
   {
     "Page": 82,
@@ -478,11 +468,6 @@
     "Page": 83,
     "Title": "Goodbye Porkpie Hat",
     "Composer": "Charles Mingus"
-  },
-  {
-    "Page": 67,
-    "Title": "Grand Valse,. The",
-    "Composer": "Booker Little"
   },
   {
     "Page": 84,
@@ -500,14 +485,34 @@
     "Composer": "Keith Jarrett"
   },
   {
+    "Page": 88,
+    "Title": "Search for Peace",
+    "Composer": "McCoy Tyner"
+  },
+  {
+    "Page": 88,
+    "Title": "Shame Shame",
+    "Composer": "Bobby Hutcherson"
+  },
+  {
+    "Page": 88,
+    "Title": "Make Someone Happy",
+    "Composer": ""
+  },
+  {
+    "Page": 90,
+    "Title": "Floating Garden",
+    "Composer": "R. Eisenberg"
+  },
+  {
+    "Page": 90,
+    "Title": "My Man's Gone",
+    "Composer": "George Gershwin"
+  },
+  {
     "Page": 91,
     "Title": "Have You Met Miss Jones?",
     "Composer": "Richard Rogers/Hart"
-  },
-  {
-    "Page": 230,
-    "Title": "Headline",
-    "Composer": "Jack Montrose"
   },
   {
     "Page": 92,
@@ -525,9 +530,19 @@
     "Composer": "Bobby Hutcherson"
   },
   {
+    "Page": 97,
+    "Title": "If You Could See Me Now",
+    "Composer": "Tadd Dameron"
+  },
+  {
     "Page": 98,
     "Title": "How High The Moon",
     "Composer": "Morgan Lewis"
+  },
+  {
+    "Page": 98,
+    "Title": "If You Never Come To Me",
+    "Composer": "Antonio Carlos Jobim"
   },
   {
     "Page": 99,
@@ -535,59 +550,14 @@
     "Composer": "Duke Ellington"
   },
   {
-    "Page": 206,
-    "Title": "I Hear a Rhapsody",
-    "Composer": ""
-  },
-  {
-    "Page": 195,
-    "Title": "I Love You",
-    "Composer": "Cole Porter"
-  },
-  {
-    "Page": 101,
-    "Title": "I Mean You",
-    "Composer": "Thelonious Monk"
-  },
-  {
-    "Page": 105,
-    "Title": "I Remember Clifford",
-    "Composer": "Benny Golson"
-  },
-  {
-    "Page": 106,
-    "Title": "I Should Care",
-    "Composer": ""
-  },
-  {
-    "Page": 109,
-    "Title": "I Thought About You",
-    "Composer": ""
-  },
-  {
     "Page": 100,
     "Title": "I'm Afraid",
     "Composer": "Duke Ellington"
   },
   {
-    "Page": 144,
-    "Title": "I'm All Smiles",
-    "Composer": "Leonard/Martin"
-  },
-  {
-    "Page": 126,
-    "Title": "I'm Old Fashioned",
-    "Composer": ""
-  },
-  {
-    "Page": 97,
-    "Title": "If You Could See Me Now",
-    "Composer": "Tadd Dameron"
-  },
-  {
-    "Page": 98,
-    "Title": "If You Never Come To Me",
-    "Composer": "Antonio Carlos Jobim"
+    "Page": 101,
+    "Title": "I Mean You",
+    "Composer": "Thelonious Monk"
   },
   {
     "Page": 102,
@@ -605,9 +575,19 @@
     "Composer": "Keith Jarrett"
   },
   {
-    "Page": 127,
-    "Title": "Inchworm",
-    "Composer": "Frank Loesser"
+    "Page": 105,
+    "Title": "I Remember Clifford",
+    "Composer": "Benny Golson"
+  },
+  {
+    "Page": 106,
+    "Title": "Beautiful Love",
+    "Composer": "Victor Young"
+  },
+  {
+    "Page": 106,
+    "Title": "I Should Care",
+    "Composer": ""
   },
   {
     "Page": 107,
@@ -615,19 +595,34 @@
     "Composer": "Duke Ellington"
   },
   {
-    "Page": 124,
-    "Title": "It Might As Well Be Spring",
+    "Page": 108,
+    "Title": "All Alone",
+    "Composer": "Mal Waldron"
+  },
+  {
+    "Page": 108,
+    "Title": "Blues in Orbit",
+    "Composer": "George Russell"
+  },
+  {
+    "Page": 109,
+    "Title": "I Thought About You",
     "Composer": ""
   },
   {
-    "Page": 14,
-    "Title": "Joker, The",
-    "Composer": "Lee Morgan"
+    "Page": 109,
+    "Title": "Petits Machins",
+    "Composer": "Miles Davis"
   },
   {
-    "Page": 53,
-    "Title": "Joshua",
-    "Composer": "Victor Feldman"
+    "Page": 110,
+    "Title": "Bemsha Swing",
+    "Composer": "Thelonious Monk"
+  },
+  {
+    "Page": 110,
+    "Title": "Elsa",
+    "Composer": ""
   },
   {
     "Page": 111,
@@ -646,6 +641,11 @@
   },
   {
     "Page": 113,
+    "Title": "Lady Bird",
+    "Composer": "Tadd Dameron"
+  },
+  {
+    "Page": 113,
     "Title": "Killer Joe",
     "Composer": "Benny Golson"
   },
@@ -653,11 +653,6 @@
     "Page": 114,
     "Title": "La Fiesta",
     "Composer": "Chick Corea"
-  },
-  {
-    "Page": 113,
-    "Title": "Lady Bird",
-    "Composer": "Tadd Dameron"
   },
   {
     "Page": 116,
@@ -668,11 +663,6 @@
     "Page": 117,
     "Title": "Laura",
     "Composer": "David Raskin"
-  },
-  {
-    "Page": 159,
-    "Title": "Lazy Afternoon",
-    "Composer": ""
   },
   {
     "Page": 118,
@@ -700,18 +690,13 @@
     "Composer": "Freddie Hubbard"
   },
   {
-    "Page": 7,
-    "Title": "Little Taste, A",
-    "Composer": "Cannonball Adderly"
-  },
-  {
     "Page": 123,
     "Title": "Look of Love, The",
     "Composer": "Burt Bacharach"
   },
   {
-    "Page": 16,
-    "Title": "Love Story",
+    "Page": 124,
+    "Title": "It Might As Well Be Spring",
     "Composer": ""
   },
   {
@@ -720,29 +705,39 @@
     "Composer": "Horace Silver"
   },
   {
+    "Page": 126,
+    "Title": "I'm Old Fashioned",
+    "Composer": ""
+  },
+  {
+    "Page": 126,
+    "Title": "Witchcraft",
+    "Composer": ""
+  },
+  {
+    "Page": 127,
+    "Title": "Inchworm",
+    "Composer": "Frank Loesser"
+  },
+  {
+    "Page": 127,
+    "Title": "Circle",
+    "Composer": "Miles Davis"
+  },
+  {
+    "Page": 127,
+    "Title": "Eye of the Hurricane",
+    "Composer": "Herbie Hancock"
+  },
+  {
     "Page": 128,
     "Title": "Lover Man",
     "Composer": "J. Davis / R. Ramirez / J. Sherman"
   },
   {
-    "Page": 223,
-    "Title": "Magic",
-    "Composer": ""
-  },
-  {
     "Page": 129,
     "Title": "Maiden Voyage",
     "Composer": "Herbie Hancock"
-  },
-  {
-    "Page": 88,
-    "Title": "Make Someone Happy",
-    "Composer": ""
-  },
-  {
-    "Page": 76,
-    "Title": "Marilia",
-    "Composer": "W. Bernnard"
   },
   {
     "Page": 130,
@@ -760,14 +755,9 @@
     "Composer": "Keith Jarrett"
   },
   {
-    "Page": 55,
-    "Title": "Mercy, Mercy, Mercy",
-    "Composer": "Joe Zawinul"
-  },
-  {
-    "Page": 135,
-    "Title": "Milestones (Davis)",
-    "Composer": "Miles Davis"
+    "Page": 133,
+    "Title": "Rat Race",
+    "Composer": ""
   },
   {
     "Page": 134,
@@ -775,9 +765,9 @@
     "Composer": "Charlie Parker"
   },
   {
-    "Page": 141,
-    "Title": "Minor Mood",
-    "Composer": "Clifford Brown"
+    "Page": 135,
+    "Title": "Milestones (Davis)",
+    "Composer": "Miles Davis"
   },
   {
     "Page": 136,
@@ -805,9 +795,14 @@
     "Composer": "Keith Jarrett"
   },
   {
-    "Page": 24,
-    "Title": "Moon Mist",
-    "Composer": "Duke Ellington"
+    "Page": 140,
+    "Title": "Moonlight In Vermont",
+    "Composer": "Karl Suessdorf"
+  },
+  {
+    "Page": 141,
+    "Title": "Minor Mood",
+    "Composer": "Clifford Brown"
   },
   {
     "Page": 142,
@@ -815,14 +810,14 @@
     "Composer": "Horace Silver"
   },
   {
-    "Page": 140,
-    "Title": "Moonlight In Vermont",
-    "Composer": "Karl Suessdorf"
-  },
-  {
     "Page": 143,
     "Title": "Morning",
     "Composer": "Clare Fisher"
+  },
+  {
+    "Page": 144,
+    "Title": "I'm All Smiles",
+    "Composer": "Leonard/Martin"
   },
   {
     "Page": 145,
@@ -830,19 +825,9 @@
     "Composer": "Benny Golson"
   },
   {
-    "Page": 36,
-    "Title": "Mr. Jin",
-    "Composer": "Wayne Shorter"
-  },
-  {
     "Page": 145,
     "Title": "Mr. P.C.",
     "Composer": "John Coltrane"
-  },
-  {
-    "Page": 225,
-    "Title": "Mutt and Jeff",
-    "Composer": "Thad Jones"
   },
   {
     "Page": 146,
@@ -853,11 +838,6 @@
     "Page": 147,
     "Title": "My Funny Valentine",
     "Composer": "Richard Rogers/Hart"
-  },
-  {
-    "Page": 90,
-    "Title": "My Man's Gone",
-    "Composer": "George Gershwin"
   },
   {
     "Page": 148,
@@ -880,29 +860,24 @@
     "Composer": ""
   },
   {
-    "Page": 152,
-    "Title": "On A Clear Day",
-    "Composer": "Lerner/Lane"
-  },
-  {
-    "Page": 154,
-    "Title": "Once I Loved",
-    "Composer": "Antonio Carlos Jobim"
-  },
-  {
     "Page": 151,
     "Title": "One Alone",
     "Composer": "Dizzy Gillespie"
   },
   {
-    "Page": 195,
-    "Title": "One Down, One Up",
-    "Composer": "John Coltrane"
+    "Page": 152,
+    "Title": "On A Clear Day",
+    "Composer": "Lerner/Lane"
   },
   {
     "Page": 153,
     "Title": "One Finger Snap",
     "Composer": "Herbie Hancock"
+  },
+  {
+    "Page": 154,
+    "Title": "Once I Loved",
+    "Composer": "Antonio Carlos Jobim"
   },
   {
     "Page": 155,
@@ -920,6 +895,16 @@
     "Composer": "Clare Fisher"
   },
   {
+    "Page": 159,
+    "Title": "Speak Low",
+    "Composer": ""
+  },
+  {
+    "Page": 159,
+    "Title": "Lazy Afternoon",
+    "Composer": ""
+  },
+  {
     "Page": 160,
     "Title": "Our Day Will Come",
     "Composer": ""
@@ -935,14 +920,14 @@
     "Composer": "Benny Golson"
   },
   {
-    "Page": 162,
-    "Title": "Park Avenue Petite",
-    "Composer": "Benny Golson"
-  },
-  {
     "Page": 161,
     "Title": "Passion Flower",
     "Composer": "Billy Strayhorn"
+  },
+  {
+    "Page": 162,
+    "Title": "Park Avenue Petite",
+    "Composer": "Benny Golson"
   },
   {
     "Page": 163,
@@ -955,11 +940,6 @@
     "Composer": "Charlie Parker"
   },
   {
-    "Page": 109,
-    "Title": "Petits Machins",
-    "Composer": "Miles Davis"
-  },
-  {
     "Page": 164,
     "Title": "Prompt",
     "Composer": "Benny Bailey"
@@ -970,14 +950,14 @@
     "Composer": "Horace Silver"
   },
   {
+    "Page": 165,
+    "Title": "Corcovado (Quiet Nights Of Quiet Stars)",
+    "Composer": "Antonio Carlos Jobim"
+  },
+  {
     "Page": 166,
     "Title": "Rain Check",
     "Composer": "Billy Strayhorn"
-  },
-  {
-    "Page": 133,
-    "Title": "Rat Race",
-    "Composer": ""
   },
   {
     "Page": 167,
@@ -1005,39 +985,9 @@
     "Composer": "Thelonious Monk"
   },
   {
-    "Page": 173,
-    "Title": "S'bout Time",
-    "Composer": ""
-  },
-  {
     "Page": 172,
     "Title": "Satin Doll",
     "Composer": "Duke Ellington"
-  },
-  {
-    "Page": 174,
-    "Title": "Scrapple From The Apple",
-    "Composer": "Charlie Parker"
-  },
-  {
-    "Page": 176,
-    "Title": "Sea Journey",
-    "Composer": "Chick Corea"
-  },
-  {
-    "Page": 88,
-    "Title": "Search for Peace",
-    "Composer": "McCoy Tyner"
-  },
-  {
-    "Page": 175,
-    "Title": "Shadow Of Your Smile, ThE",
-    "Composer": "Johnny Mandel"
-  },
-  {
-    "Page": 88,
-    "Title": "Shame Shame",
-    "Composer": "Bobby Hutcherson"
   },
   {
     "Page": 173,
@@ -1045,9 +995,24 @@
     "Composer": "Frank Foster"
   },
   {
-    "Page": 206,
-    "Title": "Simone",
-    "Composer": "Frank Foster"
+    "Page": 173,
+    "Title": "S'bout Time",
+    "Composer": ""
+  },
+  {
+    "Page": 174,
+    "Title": "Scrapple From The Apple",
+    "Composer": "Charlie Parker"
+  },
+  {
+    "Page": 175,
+    "Title": "Shadow Of Your Smile, ThE",
+    "Composer": "Johnny Mandel"
+  },
+  {
+    "Page": 176,
+    "Title": "Sea Journey",
+    "Composer": "Chick Corea"
   },
   {
     "Page": 178,
@@ -1056,13 +1021,18 @@
   },
   {
     "Page": 179,
+    "Title": "Slats",
+    "Composer": "Ernie Wilkins"
+  },
+  {
+    "Page": 179,
     "Title": "Sippin At Bells",
     "Composer": "Charlie Parker"
   },
   {
-    "Page": 179,
-    "Title": "Slats",
-    "Composer": "Ernie Wilkins"
+    "Page": 180,
+    "Title": "Solid",
+    "Composer": "Sonny Rollins"
   },
   {
     "Page": 180,
@@ -1070,24 +1040,9 @@
     "Composer": ""
   },
   {
-    "Page": 188,
-    "Title": "So What",
-    "Composer": "Miles Davis"
-  },
-  {
-    "Page": 67,
-    "Title": "Softly, As in a Morning Sunrise",
-    "Composer": ""
-  },
-  {
     "Page": 181,
     "Title": "Solar",
     "Composer": "Eddie Cleanhead Vinso"
-  },
-  {
-    "Page": 180,
-    "Title": "Solid",
-    "Composer": "Sonny Rollins"
   },
   {
     "Page": 182,
@@ -1100,9 +1055,9 @@
     "Composer": "Charles Lloyd"
   },
   {
-    "Page": 206,
-    "Title": "Some Other Blues",
-    "Composer": "John Coltrane"
+    "Page": 183,
+    "Title": "Somewhere",
+    "Composer": "Leonard Bernstien"
   },
   {
     "Page": 184,
@@ -1115,11 +1070,6 @@
     "Composer": "Sergio Mihanovich"
   },
   {
-    "Page": 183,
-    "Title": "Somewhere",
-    "Composer": "Leonard Bernstien"
-  },
-  {
     "Page": 186,
     "Title": "Song for My Father",
     "Composer": "Horace Silver"
@@ -1130,19 +1080,9 @@
     "Composer": "Duke Ellington"
   },
   {
-    "Page": 70,
-    "Title": "Soul Eyees",
-    "Composer": ""
-  },
-  {
-    "Page": 190,
-    "Title": "Spain",
-    "Composer": "Chick Corea"
-  },
-  {
-    "Page": 159,
-    "Title": "Speak Low",
-    "Composer": ""
+    "Page": 188,
+    "Title": "So What",
+    "Composer": "Miles Davis"
   },
   {
     "Page": 189,
@@ -1150,14 +1090,14 @@
     "Composer": "The Godfather"
   },
   {
+    "Page": 190,
+    "Title": "Spain",
+    "Composer": "Chick Corea"
+  },
+  {
     "Page": 193,
     "Title": "Sticks",
     "Composer": "Cannonball Adderly"
-  },
-  {
-    "Page": 194,
-    "Title": "Stockholm Sweetnin",
-    "Composer": "Quincy Jones"
   },
   {
     "Page": 193,
@@ -1165,24 +1105,24 @@
     "Composer": "Laura Nyro"
   },
   {
+    "Page": 194,
+    "Title": "Stockholm Sweetnin",
+    "Composer": "Quincy Jones"
+  },
+  {
     "Page": 195,
     "Title": "Stuffy",
     "Composer": "Wilbur Hardin"
   },
   {
-    "Page": 198,
-    "Title": "Summer Knows, The",
-    "Composer": "Michel Legrand/Bergm"
+    "Page": 195,
+    "Title": "I Love You",
+    "Composer": "Cole Porter"
   },
   {
-    "Page": 23,
-    "Title": "Summertime",
-    "Composer": "Coltrane"
-  },
-  {
-    "Page": 70,
-    "Title": "Sweetest Sounds, The",
-    "Composer": ""
+    "Page": 195,
+    "Title": "One Down, One Up",
+    "Composer": "John Coltrane"
   },
   {
     "Page": 196,
@@ -1195,9 +1135,9 @@
     "Composer": "Sonny Rollins"
   },
   {
-    "Page": 221,
-    "Title": "The Late Late Show",
-    "Composer": "Murry Berlin"
+    "Page": 198,
+    "Title": "Summer Knows, The",
+    "Composer": "Michel Legrand/Bergm"
   },
   {
     "Page": 199,
@@ -1211,13 +1151,13 @@
   },
   {
     "Page": 201,
-    "Title": "Thumb, The",
-    "Composer": "Wes Montgomery"
+    "Title": "Thursday's Theme",
+    "Composer": "Benny Golson"
   },
   {
     "Page": 201,
-    "Title": "Thursday's Theme",
-    "Composer": "Benny Golson"
+    "Title": "Thumb, The",
+    "Composer": "Wes Montgomery"
   },
   {
     "Page": 202,
@@ -1225,14 +1165,29 @@
     "Composer": "Webster & Mandel"
   },
   {
+    "Page": 203,
+    "Title": "Triste",
+    "Composer": "Antonio Carlos Jobim"
+  },
+  {
     "Page": 204,
     "Title": "Tones For Joan's Bones",
     "Composer": "Chick Corea"
   },
   {
-    "Page": 203,
-    "Title": "Triste",
-    "Composer": "Antonio Carlos Jobim"
+    "Page": 206,
+    "Title": "Some Other Blues",
+    "Composer": "John Coltrane"
+  },
+  {
+    "Page": 206,
+    "Title": "Simone",
+    "Composer": "Frank Foster"
+  },
+  {
+    "Page": 206,
+    "Title": "I Hear a Rhapsody",
+    "Composer": ""
   },
   {
     "Page": 207,
@@ -1275,14 +1230,14 @@
     "Composer": "Thelonious Monk"
   },
   {
-    "Page": 216,
-    "Title": "What Game Shall We Play Today",
-    "Composer": "Chick Corea"
-  },
-  {
     "Page": 215,
     "Title": "Where Am I",
     "Composer": "Benny Golson"
+  },
+  {
+    "Page": 216,
+    "Title": "What Game Shall We Play Today",
+    "Composer": "Chick Corea"
   },
   {
     "Page": 218,
@@ -1290,23 +1245,68 @@
     "Composer": "Chick Corea"
   },
   {
-    "Page": 220,
-    "Title": "Witch Hunt",
-    "Composer": "Wayne Shorter"
-  },
-  {
-    "Page": 126,
-    "Title": "Witchcraft",
-    "Composer": ""
-  },
-  {
     "Page": 219,
     "Title": "With A Little Help From My Friends",
     "Composer": ""
   },
   {
-    "Page": 18,
-    "Title": "Young & Foolish",
+    "Page": 220,
+    "Title": "Witch Hunt",
+    "Composer": "Wayne Shorter"
+  },
+  {
+    "Page": 221,
+    "Title": "The Late Late Show",
+    "Composer": "Murry Berlin"
+  },
+  {
+    "Page": 222,
+    "Title": "Five O'Clock in the Morning",
+    "Composer": "Joe Williams"
+  },
+  {
+    "Page": 223,
+    "Title": "Magic",
+    "Composer": ""
+  },
+  {
+    "Page": 224,
+    "Title": "Blues for the Count and Oscar",
+    "Composer": ""
+  },
+  {
+    "Page": 225,
+    "Title": "Mutt and Jeff",
+    "Composer": "Thad Jones"
+  },
+  {
+    "Page": 226,
+    "Title": "Big Walk",
+    "Composer": "Quincy Jones"
+  },
+  {
+    "Page": 227,
+    "Title": "Blues Go Away",
+    "Composer": ""
+  },
+  {
+    "Page": 228,
+    "Title": "Basie Goes Wess",
+    "Composer": ""
+  },
+  {
+    "Page": 229,
+    "Title": "Basie's Back in Town",
+    "Composer": ""
+  },
+  {
+    "Page": 230,
+    "Title": "Headline",
+    "Composer": "Jack Montrose"
+  },
+  {
+    "Page": 230,
+    "Title": "Georgie Porgie",
     "Composer": ""
   }
 ]
