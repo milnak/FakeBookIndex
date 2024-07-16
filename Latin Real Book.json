@@ -1,28 +1,43 @@
 [
   {
+    "Page": 1,
+    "Title": "A Fonte Secou",
+    "Composer": "Leny Andrade"
+  },
+  {
+    "Page": 3,
+    "Title": "A Mi Que",
+    "Composer": "Johnny Pacheco"
+  },
+  {
+    "Page": 5,
+    "Title": "A Nivel De",
+    "Composer": "Joao Bosco"
+  },
+  {
     "Page": 7,
     "Title": "Afro Blue",
     "Composer": "John Coltrane"
   },
   {
     "Page": 9,
-    "Title": "Aguardiente De Cana",
-    "Composer": "Miguel Barcasnegras"
+    "Title": "Aguardiente de Cana",
+    "Composer": "Ray Barretto"
   },
   {
     "Page": 13,
     "Title": "Almendra",
-    "Composer": "Abelardo Valdes"
+    "Composer": "Orquesta Aragon"
   },
   {
     "Page": 17,
     "Title": "Alonzo",
-    "Composer": "Lonnie Hewitt"
+    "Composer": "Cal Tjader"
   },
   {
     "Page": 19,
     "Title": "Amantes",
-    "Composer": "Rafael Perez Botija"
+    "Composer": "Louis Ramirez"
   },
   {
     "Page": 27,
@@ -32,46 +47,46 @@
   {
     "Page": 31,
     "Title": "Amor",
-    "Composer": "Ivan Lins And Vitor Ma"
+    "Composer": "Ivan Lins"
   },
   {
     "Page": 33,
     "Title": "Amor Artificial",
-    "Composer": "C. Curet Alonso"
+    "Composer": "Ray Barretto"
   },
   {
     "Page": 41,
-    "Title": "Anatelio (The Happy Peopl",
-    "Composer": "eAirto Moreira"
+    "Title": "Anatelio (The Happy People)",
+    "Composer": "Airto Moreira"
   },
   {
     "Page": 43,
     "Title": "Angoa",
-    "Composer": "Felix Reina And Carlos"
+    "Composer": "Arcano Y Sus Maravillas"
   },
   {
     "Page": 47,
     "Title": "Aparecida",
-    "Composer": "Ivan Lins And Mauricio"
+    "Composer": "Ivan Lins"
   },
   {
     "Page": 49,
-    "Title": "Aquarela Do Brasil (Brazil)",
-    "Composer": "Ary Barroso/S.K. Russe"
+    "Title": "Aquarela Do Brasil (aka Brazil)",
+    "Composer": ""
   },
   {
     "Page": 51,
     "Title": "Aqui, Oh!",
-    "Composer": "Toninho Horta And Fer"
+    "Composer": "Toninho Horta"
   },
   {
     "Page": 53,
     "Title": "Arallue",
-    "Composer": "Ruben Blades"
+    "Composer": "Ray Barretto"
   },
   {
     "Page": 61,
-    "Title": "Armando's Rhumba",
+    "Title": "Armando's Rumba",
     "Composer": "Chick Corea"
   },
   {
@@ -86,42 +101,42 @@
   },
   {
     "Page": 67,
-    "Title": "Baia (Bahia)",
-    "Composer": "Ary Barroso/Ray Gilber"
+    "Title": "Baia (aka Bahia)",
+    "Composer": ""
   },
   {
     "Page": 69,
     "Title": "Bailando Asi",
-    "Composer": "Jesus \"Chucho\" Valdes"
+    "Composer": "Irakere"
   },
   {
-    "Page": 75,
-    "Title": "Basta De Clamares Inocenc",
-    "Composer": "Cartola"
+    "Page": -75,
+    "Title": "Basta De Clamares Inocencia",
+    "Composer": "Elis Regina"
   },
   {
     "Page": 77,
     "Title": "Bemba Colora",
-    "Composer": "Jose Claro Fumero"
+    "Composer": "Celia Cruz"
   },
   {
     "Page": 81,
     "Title": "Besame",
-    "Composer": "Flavio Venturini And M"
+    "Composer": "Leila"
   },
   {
     "Page": 83,
     "Title": "Besame Mucho",
-    "Composer": "Consuelo Velazquez"
+    "Composer": "eiro"
   },
   {
     "Page": 85,
     "Title": "Bilongo",
-    "Composer": "Guillermo Rodriquez Fi"
+    "Composer": "Tito Rodriguez"
   },
   {
     "Page": 89,
-    "Title": "Bomba De Corazon",
+    "Title": "Bomba de Corazon",
     "Composer": "Eddie Palmieri"
   },
   {
@@ -132,17 +147,17 @@
   {
     "Page": 97,
     "Title": "Bruca Manigua",
-    "Composer": "Arsenio Rodriguez"
+    "Composer": "Orquesta Sensacion"
   },
   {
     "Page": 99,
     "Title": "Building Bridges",
-    "Composer": "Memo Acevedo And T."
+    "Composer": "Memo Acevedo"
   },
   {
     "Page": 101,
     "Title": "Cachita",
-    "Composer": "Rafael Hernandez"
+    "Composer": ""
   },
   {
     "Page": 103,
@@ -151,38 +166,38 @@
   },
   {
     "Page": 107,
-    "Title": "Camina Y Prende El Fogon",
-    "Composer": "Benigno Echmendia"
+    "Title": "Camina y Prende El Fogon",
+    "Composer": "Conjunto Chappottin"
   },
   {
     "Page": 111,
-    "Title": "Capullito De Aleli",
-    "Composer": "Rafael Hernandez"
+    "Title": "Capullito de Aleli",
+    "Composer": ""
   },
   {
     "Page": 113,
-    "Title": "Cascade Of The Seven Wat",
-    "Composer": "eAlex Malheiros"
+    "Title": "Cascade Of The Seven Waterfalls",
+    "Composer": "Azymuth"
   },
   {
     "Page": 115,
-    "Title": "Cha-Cha-Cha (Calzada De C",
-    "Composer": "Jesus \"Chucho\" Valdes"
+    "Title": "Chia-cha-cha (aka Calzada de Cerro)",
+    "Composer": "Tito Puente"
   },
   {
     "Page": 117,
     "Title": "Changuiri",
-    "Composer": "Luigi Texidor"
+    "Composer": "The Puerto Rico All-Stars"
   },
   {
     "Page": 127,
     "Title": "Claudia",
-    "Composer": "Jesus \"Chucho\" Valdes"
+    "Composer": "Paquito D'Rivera"
   },
   {
     "Page": 129,
     "Title": "Club Morocco",
-    "Composer": "Jose Roberto BertramiA"
+    "Composer": "Azymuth"
   },
   {
     "Page": 131,
@@ -197,7 +212,7 @@
   {
     "Page": 135,
     "Title": "Compadre Pedro Juan",
-    "Composer": "Luis Alberti"
+    "Composer": ""
   },
   {
     "Page": 137,
@@ -212,7 +227,7 @@
   {
     "Page": 143,
     "Title": "Curacao",
-    "Composer": "Cal Tjader"
+    "Composer": "Clare Fischer"
   },
   {
     "Page": 145,
@@ -222,112 +237,112 @@
   {
     "Page": 147,
     "Title": "Danzon For My Father",
-    "Composer": "Oscar Hernandez"
+    "Composer": "Dave Valentin"
   },
   {
     "Page": 151,
     "Title": "Decision",
-    "Composer": "Oscar Hernandez"
+    "Composer": "Seis Del Solar"
   },
   {
     "Page": 153,
-    "Title": "Dejala Que Baile Sola (Que",
-    "Composer": "Juan Almeida"
+    "Title": "Dejala Que Baile Sola",
+    "Composer": "Louis Ramirez"
   },
   {
     "Page": 161,
     "Title": "Dejala Que Siga Andando",
-    "Composer": "Jose Antonio Mendez A"
+    "Composer": "Orquesta Batachanga"
   },
   {
     "Page": 165,
     "Title": "Dejame Sonar",
-    "Composer": "Perin Vasquez"
+    "Composer": "Tito Puente"
   },
   {
     "Page": 169,
-    "Title": "Dile A Catalina",
-    "Composer": "Arsenio Rodriguez"
+    "Title": "Dile a Catalina '",
+    "Composer": "Irakere"
   },
   {
     "Page": 173,
     "Title": "Dime Tu Que Lo Sabes",
-    "Composer": "Candido Fabre"
+    "Composer": "Issac Delgado"
   },
   {
     "Page": 181,
-    "Title": "Dom De Iludi",
-    "Composer": "Nana Cayinmi"
+    "Title": "Dom De Iludir",
+    "Composer": "Nana Caymmi"
   },
   {
     "Page": 183,
     "Title": "Don Quixote",
-    "Composer": "Milton Nascimento And"
+    "Composer": "Milton Nascimento"
   },
   {
     "Page": 185,
     "Title": "E'",
-    "Composer": "Luis Gonzaga, Jr."
+    "Composer": "Gonzaguinha"
   },
   {
     "Page": 187,
     "Title": "Eastern Joy Dance",
-    "Composer": "Mulgrew Miller"
+    "Composer": "Tito Puente"
   },
   {
     "Page": 189,
     "Title": "Echale Salsita",
-    "Composer": "Ignacio Pineiro"
+    "Composer": ""
   },
   {
     "Page": 191,
     "Title": "El Agua Del Clavelito",
-    "Composer": "Miguel Angel Pozo"
+    "Composer": "Johnny Pacheco"
   },
   {
     "Page": 193,
-    "Title": "El Cantar Del Coqui",
-    "Composer": "Juancito Torres"
+    "Title": "El Cantar del Coqui",
+    "Composer": "The Puerto Rico All-Stars"
   },
   {
     "Page": 198,
     "Title": "El Manisero",
-    "Composer": "Moises Simons"
+    "Composer": ""
   },
   {
     "Page": 201,
     "Title": "Elena, Elena",
-    "Composer": "Manuel Jimenez"
+    "Composer": "Manny Oquendo & Libre"
   },
   {
     "Page": 205,
     "Title": "Encantigo",
-    "Composer": "Roy Brown"
+    "Composer": "The Fania All-Stars"
   },
   {
     "Page": 209,
     "Title": "Entregate",
-    "Composer": "Arturo Ortiz/Ralph Iriza"
+    "Composer": "Seis Del Solar"
   },
   {
     "Page": 215,
     "Title": "Estoy Como Nunca",
-    "Composer": "Don Raymat"
+    "Composer": "Manny Oquendo & Libre"
   },
   {
     "Page": 223,
     "Title": "Flight To Jordan",
-    "Composer": "Duke Jordan"
+    "Composer": "Tito Puente"
   },
   {
     "Page": 225,
-    "Title": "Flor De Lis (Upside Down)",
+    "Title": "Flor De Lis (aka Upside Down)",
     "Composer": "Djavan"
   },
   {
     "Page": 227,
     "Title": "Frenesi",
-    "Composer": "Alberto Dominguez"
+    "Composer": ""
   },
   {
     "Page": 229,
@@ -337,7 +352,7 @@
   {
     "Page": 231,
     "Title": "Guarare",
-    "Composer": "Juan Formell"
+    "Composer": "Ray Barretto"
   },
   {
     "Page": 239,
@@ -347,22 +362,22 @@
   {
     "Page": 241,
     "Title": "Indestructible",
-    "Composer": "Ray Barretto/J. Roman"
+    "Composer": "Ray Barretto"
   },
   {
     "Page": 245,
     "Title": "Indiferencia",
-    "Composer": "Sergio Moya Molina"
+    "Composer": "Ray Barretto"
   },
   {
     "Page": 249,
     "Title": "Jogral",
-    "Composer": "Djavan/Jose Neto/Filo"
+    "Composer": "Airto & Flora Purim"
   },
   {
     "Page": 253,
     "Title": "Juan Pachanga",
-    "Composer": "Ruben Blades/Louis Ra"
+    "Composer": "The Fania All-Stars"
   },
   {
     "Page": 257,
@@ -372,72 +387,72 @@
   {
     "Page": 261,
     "Title": "La Charanga",
-    "Composer": "Jose A. Fajardo"
+    "Composer": "Jose Fajardo"
   },
   {
     "Page": 263,
-    "Title": "La Comparsa",
-    "Composer": "Ernesto Lecuona"
+    "Title": "La Comparsa \"",
+    "Composer": ""
   },
   {
     "Page": 265,
     "Title": "La Enganadora",
-    "Composer": "Enrique Jorrin"
+    "Composer": ""
   },
   {
     "Page": 267,
-    "Title": "La Esencia Del Guaguanco",
-    "Composer": "C. Curet Alonso"
+    "Title": "La Esencia del Guaguanco",
+    "Composer": "Johnny Pacheco"
   },
   {
     "Page": 269,
-    "Title": "La Malanga, (Se Acabo)",
-    "Composer": "Rudy Calzado"
+    "Title": "(Se Acab6) La Malanga",
+    "Composer": "Eddie Palmieri"
   },
   {
     "Page": 271,
     "Title": "La Patria Del Son",
-    "Composer": "Rebeca Mauleon Santan"
+    "Composer": "The Machete Ensemble"
   },
   {
     "Page": 275,
-    "Title": "La Vida Es Un Sueno",
-    "Composer": "Arsenio Rodriguez"
+    "Title": "La Vida Es Un Suenio",
+    "Composer": ""
   },
   {
     "Page": 277,
     "Title": "Lagrimas Negras",
-    "Composer": "Miguel Matamoros"
+    "Composer": ""
   },
   {
     "Page": 279,
     "Title": "Lamento Borincano",
-    "Composer": "Rafael Hernandez"
+    "Composer": ""
   },
   {
     "Page": 283,
     "Title": "Latin Perspective",
-    "Composer": "Oscar Hernandez"
+    "Composer": "Daniel Ponce"
   },
   {
     "Page": 285,
     "Title": "Leva E Traz (Elis)",
-    "Composer": "Ivan Lins And Vitor Ma"
+    "Composer": "Ivan Lins"
   },
   {
     "Page": 287,
     "Title": "Linda Chicana",
-    "Composer": "Mark Levine"
+    "Composer": "Tito Puente"
   },
   {
     "Page": 289,
-    "Title": "Lo Que Siento Es Le Lo Le",
-    "Composer": "yDagoberto Gonzalez"
+    "Title": "Lo Que Siento es Le Lo Ley",
+    "Composer": "NG La Banda"
   },
   {
     "Page": 293,
-    "Title": "Lo Que Va A Pasar (El Vol",
-    "Composer": "cJesus \"Chucho\" Valdes"
+    "Title": "Lo Que Va a Pasar",
+    "Composer": "Irakere"
   },
   {
     "Page": 297,
@@ -445,39 +460,79 @@
     "Composer": "Antonio Carlos Jobim"
   },
   {
+    "Page": 299,
+    "Title": "Loro",
+    "Composer": "Egberto Gismonti"
+  },
+  {
+    "Page": 301,
+    "Title": "Los Tamalitos de Olga",
+    "Composer": "Jose Fajardo"
+  },
+  {
+    "Page": 303,
+    "Title": "Lourdes' Lullaby",
+    "Composer": "Mario Bauza"
+  },
+  {
     "Page": 309,
     "Title": "Lua Soberana",
-    "Composer": "Ivan Lins And Vitor Ma"
+    "Composer": "Ivan Lins"
   },
   {
     "Page": 311,
     "Title": "Luz Do Sol",
-    "Composer": "Caetano Veloso"
+    "Composer": "Gal Costa"
+  },
+  {
+    "Page": 313,
+    "Title": "Mamblues",
+    "Composer": "Cal Tjader"
+  },
+  {
+    "Page": 315,
+    "Title": "Mambo #5",
+    "Composer": "Perez Prado"
+  },
+  {
+    "Page": 317,
+    "Title": "Mambo #",
+    "Composer": "Perez Prado"
+  },
+  {
+    "Page": 319,
+    "Title": "Mambo Influenciado !",
+    "Composer": "Chucho Vaides"
+  },
+  {
+    "Page": 321,
+    "Title": "Mambo Inn",
+    "Composer": "Mario Bauza"
   },
   {
     "Page": 323,
     "Title": "Manteca",
-    "Composer": "John Birks \"Dizzy\" Gill"
+    "Composer": "Dizzy Gillespie"
   },
   {
     "Page": 325,
-    "Title": "Maria Cervantes (A Noro M",
-    "Composer": "Noro Morales"
+    "Title": "Maria Cervantes",
+    "Composer": "Tito Puente"
   },
   {
     "Page": 327,
     "Title": "Mas Que Nada",
-    "Composer": "Jorge Ben"
+    "Composer": "Sergio Mendes"
   },
   {
     "Page": 329,
-    "Title": "Mayeya, No Juegues Con L",
-    "Composer": "Ignacio Pineiro"
+    "Title": "Mayeya, No Juegues Con Los Santos",
+    "Composer": "Septeto Nacional de Ignacio Pifieiro"
   },
   {
     "Page": 331,
     "Title": "Me Voy Pa'l Pueblo",
-    "Composer": "Merceditas Valdes"
+    "Composer": "Benny More"
   },
   {
     "Page": 333,
@@ -487,7 +542,7 @@
   {
     "Page": 335,
     "Title": "Midnight Mambo",
-    "Composer": "Oscar Hernandez"
+    "Composer": "Daniel Ponce"
   },
   {
     "Page": 337,
@@ -497,22 +552,22 @@
   {
     "Page": 339,
     "Title": "Mountain Flight",
-    "Composer": "Toninho Horta And Tom"
+    "Composer": "Tom Lellis (with Toninho Horta)"
   },
   {
     "Page": 341,
-    "Title": "Muevete, (Anda Ven Y)",
-    "Composer": "Juan Formell"
+    "Title": "(Anda Ven y) Muevete",
+    "Composer": "Los Van Van"
   },
   {
     "Page": 345,
     "Title": "Muito Normal",
-    "Composer": "Aecio Flavio"
+    "Composer": "Viva Brasil"
   },
   {
     "Page": 347,
     "Title": "Naci Moreno",
-    "Composer": "Francisco Alvarado"
+    "Composer": "The Fania All-Stars"
   },
   {
     "Page": 355,
@@ -521,38 +576,38 @@
   },
   {
     "Page": 357,
-    "Title": "Nineteen-Eighty-Three \"19",
-    "Composer": "8Eddie Palmieri"
+    "Title": "\"1983\"",
+    "Composer": "Eddic Palmieri"
   },
   {
     "Page": 365,
     "Title": "Novena",
-    "Composer": "Milton Nascimento And"
+    "Composer": "Milton Nascimento"
   },
   {
     "Page": 367,
     "Title": "O Bebado E A Equilibrista",
-    "Composer": "Joao Bosco And Adir B"
+    "Composer": "Elis Regina"
   },
   {
     "Page": 369,
     "Title": "O Pato",
-    "Composer": "Jaime Silva, Neuza Teix"
+    "Composer": ""
   },
   {
     "Page": 371,
     "Title": "Obsesion",
-    "Composer": "Pedro Flores"
+    "Composer": ""
   },
   {
     "Page": 373,
     "Title": "Obsession",
-    "Composer": "Dori Caymmi/Tracy Ma"
+    "Composer": "Dori Caymmi"
   },
   {
     "Page": 377,
     "Title": "Oferere",
-    "Composer": "Oscar Hernandez AndD"
+    "Composer": "Daniel Ponce"
   },
   {
     "Page": 379,
@@ -562,7 +617,7 @@
   {
     "Page": 381,
     "Title": "Pa' Gozar",
-    "Composer": "Aristides Soto"
+    "Composer": "Los Amigos"
   },
   {
     "Page": 383,
@@ -571,8 +626,8 @@
   },
   {
     "Page": 389,
-    "Title": "Paginas De Mujer",
-    "Composer": "Eddie Palmieri, Francis"
+    "Title": "Paginas de Mujer",
+    "Composer": "Francisco Zumaque"
   },
   {
     "Page": 397,
@@ -582,17 +637,12 @@
   {
     "Page": 405,
     "Title": "Pare Cochero",
-    "Composer": "Miguel Angel Banguela"
+    "Composer": "Orquesta Aragon"
   },
   {
     "Page": 407,
     "Title": "Paulistana",
-    "Composer": "Elaine Elias"
-  },
-  {
-    "Page": 409,
-    "Title": "Picadillo",
-    "Composer": "Tito Puente"
+    "Composer": "Eliane Elias"
   },
   {
     "Page": 409,
@@ -602,27 +652,27 @@
   {
     "Page": 411,
     "Title": "Ponteio",
-    "Composer": "Edu Lobo And Jose Car"
+    "Composer": "Edu Lobo"
   },
   {
     "Page": 413,
-    "Title": "Pueblo Latino",
-    "Composer": "C. Curet Alonso"
+    "Title": "Pucblo Latino",
+    "Composer": "Pete \"El Conde\" Rodriguez"
   },
   {
     "Page": 419,
     "Title": "Pura Novela",
-    "Composer": "C. Curet Alonso"
+    "Composer": "Ray Barretto"
   },
   {
     "Page": 423,
     "Title": "Que Se Funan",
-    "Composer": "Luis Martinez Grinan"
+    "Composer": "Conjunto Chappottin"
   },
   {
     "Page": 427,
-    "Title": "Que Sorpresa",
-    "Composer": "Juan Formell"
+    "Title": "Que Soipresia",
+    "Composer": "Los Van Van"
   },
   {
     "Page": 431,
@@ -636,43 +686,48 @@
   },
   {
     "Page": 435,
-    "Title": "Recuerdos De Arcano",
+    "Title": "Recuerdos de Arcano",
     "Composer": "Johnny Pacheco"
+  },
+  {
+    "Page": 437,
+    "Title": "Retrato Em Branco E Preto (aka Zingaro)",
+    "Composer": "Antonio Carlos Jobim"
   },
   {
     "Page": 439,
     "Title": "Rico Vacilon",
-    "Composer": "Rosendo Ruiz"
+    "Composer": ""
   },
   {
     "Page": 441,
     "Title": "Rio",
-    "Composer": "Roberto Menescal/Rona"
+    "Composer": "Leny Andrade"
   },
   {
     "Page": 443,
     "Title": "Sabor",
-    "Composer": "Joao Donato"
+    "Composer": "Cal Tjader"
   },
   {
     "Page": 445,
-    "Title": "Sambadouro",
-    "Composer": "Ivan Lins And Vitor Ma"
+    "Title": "Sambadoura",
+    "Composer": "Ivan Lins"
   },
   {
     "Page": 447,
     "Title": "Sambita",
-    "Composer": "Justo Almario And J. G"
+    "Composer": "Mongo Santamaria"
   },
   {
     "Page": 449,
     "Title": "Sandunguera",
-    "Composer": "Juan Formell"
+    "Composer": "Los Van Van"
   },
   {
     "Page": 453,
     "Title": "Second Wind",
-    "Composer": "Rebeca Mauleon Santan"
+    "Composer": "Tito Puente"
   },
   {
     "Page": 461,
@@ -686,13 +741,13 @@
   },
   {
     "Page": 467,
-    "Title": "Sin Tu Carino",
-    "Composer": "Ruben Blades/Louis Ra"
+    "Title": "Sin Tu Carifio",
+    "Composer": "Ruben Blades"
   },
   {
     "Page": 471,
-    "Title": "So Danco Samba (Jazz 'N' S",
-    "Composer": "Antonio Carlos Jobim/V"
+    "Title": "S6 Danco Samba",
+    "Composer": "Antonio Carlos Jobim"
   },
   {
     "Page": 473,
@@ -702,17 +757,17 @@
   {
     "Page": 475,
     "Title": "Solamente Una Vez",
-    "Composer": "Agustin Lara"
+    "Composer": "Benny More"
   },
   {
     "Page": 477,
     "Title": "Son De Cuba A Puerto Rico",
-    "Composer": "Pablo Milanes"
+    "Composer": "Issac Delgado"
   },
   {
     "Page": 481,
     "Title": "Son De La Loma",
-    "Composer": "Miguel Matamoros"
+    "Composer": ""
   },
   {
     "Page": 483,
@@ -722,67 +777,67 @@
   {
     "Page": 487,
     "Title": "Sonhos",
-    "Composer": "Ivan Lins And Victor M"
+    "Composer": "Ivan Lins"
   },
   {
     "Page": 491,
     "Title": "Soy Antillana",
-    "Composer": "Marylin Pupo"
+    "Composer": "Celia Cruz w/ Sonora Poncena"
   },
   {
     "Page": 495,
     "Title": "Suavecito",
-    "Composer": "Ignacio Pineiro"
+    "Composer": ""
   },
   {
     "Page": 497,
     "Title": "Tapete Magico",
-    "Composer": "Caetano Veloso"
+    "Composer": "Gal Costa"
   },
   {
     "Page": 499,
-    "Title": "Te Desafio",
-    "Composer": "Roberto Yanes"
+    "Title": "Te Desaffo",
+    "Composer": "Tito Puente"
   },
   {
     "Page": 505,
     "Title": "Tin Tin Deo",
-    "Composer": "Walter \"Gil\" Fuller/Cha"
+    "Composer": "Dizzy Gillespie"
   },
   {
     "Page": 507,
     "Title": "To Wisdom The Prize",
-    "Composer": "Larry Willis"
+    "Composer": "Ft Apache Band"
   },
   {
     "Page": 509,
-    "Title": "Tombo In 7/4",
+    "Title": "Tombo in 7/4",
     "Composer": "Airto Moreira"
   },
   {
     "Page": 511,
     "Title": "Tres Lindas Cubanas",
-    "Composer": "Guillermo Castillo And"
+    "Composer": ""
   },
   {
     "Page": 513,
     "Title": "Um Samba",
-    "Composer": "Joao Donato And Gilbe"
+    "Composer": "Leila Pinheiro"
   },
   {
     "Page": 515,
     "Title": "Un Tipo Como Yo",
-    "Composer": "Sergio Esquivel"
+    "Composer": "NG La Banda"
   },
   {
     "Page": 519,
     "Title": "Vai Amigo",
-    "Composer": "Cartola"
+    "Composer": "Leny Andrade"
   },
   {
     "Page": 521,
-    "Title": "Varadero Bluess",
-    "Composer": "Jan L. Hartong"
+    "Title": "Varadero Blues",
+    "Composer": "Nueva Manteca"
   },
   {
     "Page": 523,
@@ -791,33 +846,33 @@
   },
   {
     "Page": 525,
-    "Title": "Virgen De La Caridad",
-    "Composer": "Gladys (Bobi) Cespedes"
+    "Title": "Virgen de la Caridad",
+    "Composer": "Conjunto Cespedes"
   },
   {
     "Page": 529,
     "Title": "Virou Areia",
-    "Composer": "Lenine/Tavares"
+    "Composer": "Batacoto"
   },
   {
     "Page": 533,
     "Title": "Vive Y Vacila",
-    "Composer": "Tony Fuentes"
+    "Composer": "Ray Barretto"
   },
   {
     "Page": 537,
-    "Title": "Voce E Linda",
-    "Composer": "Caetano Veloso"
+    "Title": "Voce E' Linda",
+    "Composer": "Simone"
   },
   {
     "Page": 539,
     "Title": "Y Hoy Como Ayer",
-    "Composer": "Pedro Vega"
+    "Composer": "Beny More"
   },
   {
     "Page": 545,
-    "Title": "Y Tu, ?Que Has Hecho?",
-    "Composer": "Eusebio Delfin"
+    "Title": "Y Tu, Que Has Hecho?",
+    "Composer": "Pablo Milanes"
   },
   {
     "Page": 547,
@@ -827,6 +882,16 @@
   {
     "Page": 549,
     "Title": "Yerbero Moderno",
-    "Composer": "Nestor Nili"
+    "Composer": "Celia Cruz"
+  },
+  {
+    "Page": 553,
+    "Title": "APPENDIX I - Rhythm Section Appendix",
+    "Composer": ""
+  },
+  {
+    "Page": 569,
+    "Title": "APPENDIX II - Sources",
+    "Composer": ""
   }
 ]
