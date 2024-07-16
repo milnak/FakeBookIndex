@@ -14,6 +14,14 @@ I've created these as I couldn't find an "open" fake book indexes -- theres some
 
 Do not ask me where you can find these books online. Check your favorite book seller. If they have it, buy it there. If not, I can't help you out, so please don't ask.
 
+## Can I search these without downloading them?
+
+Sure! Just use the github search box! For example to search for "Blue Bossa", enter `repo:milnak/FakeBookIndex "Blue Bossa"`
+
+## I found a mistake or a book is missing
+
+I accept pull requests, which is why this is "open source". Please send any corrections!  If you're not sure how to do a github pull request, no problem. Send me a message and I'll fix it up.
+
 ## Format
 
 The JSON files have a simple "Page", "Title", "Composer" schema.  That seems good enough for me, at least for now.
@@ -32,6 +40,3 @@ Linux:
 cat 'Spaces 2.json' | jq --raw-output '["Page","Title","Composer"],(.[] | [.Page, .Title, .Composer]) | @csv'
 ```
 
-## I found a mistake or a book is missing
-
-I accept pull requests, which is why this is "open source". Please send any corrections!  If you're not sure how to do a github pull request, no problem. Send me a message and I'll fix it up.
