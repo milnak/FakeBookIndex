@@ -34,8 +34,4 @@ cat 'Spaces 2.json' | jq --raw-output '["Page","Title","Composer"],(.[] | [.Page
 
 ## I found a mistake or a book is missing
 
-## I found a mistake, or a book is missing!
-
-## I found a mistake or a book is missing
-
 I accept pull requests, which is why this is "open source". Please send any corrections!  If you're not sure how to do a github pull request, no problem. Send me a message and I'll fix it up.
