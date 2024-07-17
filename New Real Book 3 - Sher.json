@@ -1,0 +1,962 @@
+[
+  {
+    "Page": 1,
+    "Title": "Actual Proof",
+    "Composer": "Herbie Hancock"
+  },
+  {
+    "Page": 3,
+    "Title": "Aerie, The",
+    "Composer": "Peggy Stern"
+  },
+  {
+    "Page": 5,
+    "Title": "Ain't That Peculiar",
+    "Composer": "Eddie Holland"
+  },
+  {
+    "Page": 10,
+    "Title": "Aja's Theme",
+    "Composer": "Torrie Zito"
+  },
+  {
+    "Page": 10,
+    "Title": "I Wanted To Say",
+    "Composer": "Victor Lewis"
+  },
+  {
+    "Page": 13,
+    "Title": "American Gothic",
+    "Composer": "Bob Berg"
+  },
+  {
+    "Page": 15,
+    "Title": "And It Goes Round And Ro",
+    "Composer": "Bernard Ighner"
+  },
+  {
+    "Page": 17,
+    "Title": "Another Star",
+    "Composer": "Stevie Wonder"
+  },
+  {
+    "Page": 19,
+    "Title": "Another Time",
+    "Composer": "Alan Broadbent"
+  },
+  {
+    "Page": 21,
+    "Title": "Bessie's Blues",
+    "Composer": "John Coltrane"
+  },
+  {
+    "Page": 21,
+    "Title": "Appointment In Ghana",
+    "Composer": "Jackie Mclean"
+  },
+  {
+    "Page": 24,
+    "Title": "Arietas",
+    "Composer": "Freddie Hubbard"
+  },
+  {
+    "Page": 27,
+    "Title": "Autumn Serenade",
+    "Composer": "Peter De Rose"
+  },
+  {
+    "Page": 29,
+    "Title": "B-Sting",
+    "Composer": "Brandon Fields"
+  },
+  {
+    "Page": 33,
+    "Title": "Baby Come To Me",
+    "Composer": "Rod Temperton"
+  },
+  {
+    "Page": 35,
+    "Title": "Backstage Sally",
+    "Composer": "Wayne Shorter"
+  },
+  {
+    "Page": 38,
+    "Title": "Ballad For Doll, A",
+    "Composer": "Jackie Mclean"
+  },
+  {
+    "Page": 39,
+    "Title": "Ballad For Two Musicians",
+    "Composer": "Josef Zawinul"
+  },
+  {
+    "Page": 43,
+    "Title": "Bird Of Beauty",
+    "Composer": "Stevie Wonder"
+  },
+  {
+    "Page": 46,
+    "Title": "Black Nile",
+    "Composer": "Wayne Shorter"
+  },
+  {
+    "Page": 47,
+    "Title": "Blue Moon",
+    "Composer": "Richard Rodgers"
+  },
+  {
+    "Page": 49,
+    "Title": "Blue Spirits",
+    "Composer": "Freddie Hubbard"
+  },
+  {
+    "Page": 52,
+    "Title": "Mr. P.C.",
+    "Composer": "John Coltrane"
+  },
+  {
+    "Page": 52,
+    "Title": "Mr. P.C.",
+    "Composer": "John Coltrane"
+  },
+  {
+    "Page": 54,
+    "Title": "Blue Tuesday",
+    "Composer": "Jessica Williams"
+  },
+  {
+    "Page": 58,
+    "Title": "Brothers Of The Bottom Ro",
+    "Composer": "Julian Joseph"
+  },
+  {
+    "Page": 59,
+    "Title": "Bu's Delight",
+    "Composer": "Curtis Fuller"
+  },
+  {
+    "Page": 63,
+    "Title": "Bud Powell",
+    "Composer": "Chick Corea"
+  },
+  {
+    "Page": 65,
+    "Title": "Butterfly",
+    "Composer": "Herbie Hancock"
+  },
+  {
+    "Page": 65,
+    "Title": "Almost Like Being In Love",
+    "Composer": "Alan Jay Lerner"
+  },
+  {
+    "Page": 67,
+    "Title": "Can't Stop The Wind",
+    "Composer": "Paul Mccandless"
+  },
+  {
+    "Page": 73,
+    "Title": "Caravan",
+    "Composer": "Duke Ellington"
+  },
+  {
+    "Page": 76,
+    "Title": "Ceora",
+    "Composer": "Lee Morgan"
+  },
+  {
+    "Page": 77,
+    "Title": "Chairs And Children",
+    "Composer": "Vince Mendoza"
+  },
+  {
+    "Page": 79,
+    "Title": "Chick's Tune",
+    "Composer": "Chick Corea"
+  },
+  {
+    "Page": 81,
+    "Title": "Circular Motion",
+    "Composer": "Phil Markowitz"
+  },
+  {
+    "Page": 85,
+    "Title": "Cirrus",
+    "Composer": "Bobby Hutcherson"
+  },
+  {
+    "Page": 89,
+    "Title": "Close Your Eyes",
+    "Composer": "Bernice Petkere"
+  },
+  {
+    "Page": 90,
+    "Title": "Cool Green",
+    "Composer": "Kenny Drew"
+  },
+  {
+    "Page": 91,
+    "Title": "Creepin'",
+    "Composer": "Stevie Wonder"
+  },
+  {
+    "Page": 94,
+    "Title": "D Minor Mint",
+    "Composer": "Freddie Hubbard"
+  },
+  {
+    "Page": 95,
+    "Title": "Daddy's Girl Cynthia",
+    "Composer": "Donald Brown"
+  },
+  {
+    "Page": 97,
+    "Title": "Dancing In The Street",
+    "Composer": "William Stevenson"
+  },
+  {
+    "Page": 99,
+    "Title": "Darius Dance",
+    "Composer": "Marc Copland"
+  },
+  {
+    "Page": 101,
+    "Title": "Day Dream",
+    "Composer": "Billy Strayhorn"
+  },
+  {
+    "Page": 102,
+    "Title": "Dexter",
+    "Composer": "Jerry Bergonzi"
+  },
+  {
+    "Page": 104,
+    "Title": "Dienda",
+    "Composer": "Kenny Kirkland"
+  },
+  {
+    "Page": 105,
+    "Title": "Divertamento",
+    "Composer": "Torrie Zito"
+  },
+  {
+    "Page": 108,
+    "Title": "Dolphin Dance",
+    "Composer": "Herbie Hancock"
+  },
+  {
+    "Page": 109,
+    "Title": "Don't Ask Why",
+    "Composer": "Alan Broadbent"
+  },
+  {
+    "Page": 110,
+    "Title": "Don't Be That Way",
+    "Composer": "Benny Goodman"
+  },
+  {
+    "Page": 111,
+    "Title": "Don't Blame Me",
+    "Composer": "Jimmy Mchugh"
+  },
+  {
+    "Page": 112,
+    "Title": "Double Up, The",
+    "Composer": "Lee Morgan"
+  },
+  {
+    "Page": 113,
+    "Title": "Dreamin'",
+    "Composer": "Lisa Montgomery"
+  },
+  {
+    "Page": 116,
+    "Title": "El Gaucho",
+    "Composer": "Wayne Shorter"
+  },
+  {
+    "Page": 117,
+    "Title": "Emily",
+    "Composer": "Johnny Mandel"
+  },
+  {
+    "Page": 118,
+    "Title": "Everything I Have Is Yours",
+    "Composer": "Burton Lane"
+  },
+  {
+    "Page": 119,
+    "Title": "Fall With Me",
+    "Composer": "Jude Swift"
+  },
+  {
+    "Page": 122,
+    "Title": "For All We Know",
+    "Composer": "J. Fred Coots"
+  },
+  {
+    "Page": 123,
+    "Title": "Freedomland",
+    "Composer": "Russell Ferrante"
+  },
+  {
+    "Page": 125,
+    "Title": "From Day To Day",
+    "Composer": "Mulgrew Miller"
+  },
+  {
+    "Page": 128,
+    "Title": "Gentle Rain, The",
+    "Composer": "Luiz Bonfa"
+  },
+  {
+    "Page": 129,
+    "Title": "Get Ready",
+    "Composer": "William Smokey Robin"
+  },
+  {
+    "Page": 132,
+    "Title": "Ghost Of A Chance, A",
+    "Composer": "Victor Young"
+  },
+  {
+    "Page": 135,
+    "Title": "Gush",
+    "Composer": "Maria Schneider"
+  },
+  {
+    "Page": 139,
+    "Title": "Hard Eights",
+    "Composer": "Lyle Mays"
+  },
+  {
+    "Page": 141,
+    "Title": "Heat Wave",
+    "Composer": "Eddie Holland"
+  },
+  {
+    "Page": 143,
+    "Title": "Herzog",
+    "Composer": "Bobby Hutcherson"
+  },
+  {
+    "Page": 146,
+    "Title": "Hold On, I'm Coming",
+    "Composer": "Isaac Hayes"
+  },
+  {
+    "Page": 147,
+    "Title": "How Sweet It Is",
+    "Composer": "Eddie Holland"
+  },
+  {
+    "Page": 149,
+    "Title": "I Can't Help It",
+    "Composer": "Stevie Wonder"
+  },
+  {
+    "Page": 152,
+    "Title": "I Fall In Love Too Easily",
+    "Composer": "Jule Styne"
+  },
+  {
+    "Page": 153,
+    "Title": "I Got It Bad",
+    "Composer": "Duke Ellington"
+  },
+  {
+    "Page": 156,
+    "Title": "I Hear A Rhapsody",
+    "Composer": "George Fragos"
+  },
+  {
+    "Page": 157,
+    "Title": "I Heard It Through The Gra",
+    "Composer": "Norman Whitfield"
+  },
+  {
+    "Page": 163,
+    "Title": "I'm Losing You",
+    "Composer": "Cornelius Grant"
+  },
+  {
+    "Page": 165,
+    "Title": "I'm Through With Love",
+    "Composer": "Matt Malneck"
+  },
+  {
+    "Page": 167,
+    "Title": "If You Could See Me Know",
+    "Composer": "Tadd Dameron"
+  },
+  {
+    "Page": 170,
+    "Title": "In A Mellow Tone",
+    "Composer": "Duke Ellington"
+  },
+  {
+    "Page": 171,
+    "Title": "In A Sentimental Mood",
+    "Composer": "Duke Ellington"
+  },
+  {
+    "Page": 173,
+    "Title": "In Case You Missed It",
+    "Composer": "Bobby Watson"
+  },
+  {
+    "Page": 176,
+    "Title": "In Love With Night",
+    "Composer": "Andy Laverne"
+  },
+  {
+    "Page": 177,
+    "Title": "Inner Urge",
+    "Composer": "Joe Henderson"
+  },
+  {
+    "Page": 178,
+    "Title": "Grand Central",
+    "Composer": "John Coltrane"
+  },
+  {
+    "Page": 179,
+    "Title": "Invitation",
+    "Composer": "Bronislau Kaper"
+  },
+  {
+    "Page": 181,
+    "Title": "Isoar",
+    "Composer": "Nguyen Le"
+  },
+  {
+    "Page": 184,
+    "Title": "Isotope",
+    "Composer": "Joe Henderson"
+  },
+  {
+    "Page": 185,
+    "Title": "It Always Is",
+    "Composer": "Tom Harrell"
+  },
+  {
+    "Page": 189,
+    "Title": "Jean De Fleur",
+    "Composer": "Grant Green"
+  },
+  {
+    "Page": 191,
+    "Title": "Jitterbug Waltz, The",
+    "Composer": "Thomas Fats Waller"
+  },
+  {
+    "Page": 192,
+    "Title": "John's Waltz",
+    "Composer": "John Abercrombie"
+  },
+  {
+    "Page": 193,
+    "Title": "Just Friends",
+    "Composer": "Lewis/John Klenner"
+  },
+  {
+    "Page": 194,
+    "Title": "Just Squeeze Me",
+    "Composer": "Duke Ellington"
+  },
+  {
+    "Page": 196,
+    "Title": "Just You, Just Me",
+    "Composer": "Jesse Greer"
+  },
+  {
+    "Page": 197,
+    "Title": "Kahlil The Prophet",
+    "Composer": "Jackie Mclean"
+  },
+  {
+    "Page": 199,
+    "Title": "Knock On Wood",
+    "Composer": "Eddie Floyd"
+  },
+  {
+    "Page": 202,
+    "Title": "Lamp Is Low, The",
+    "Composer": "Peter De Rose"
+  },
+  {
+    "Page": 203,
+    "Title": "Last Nite",
+    "Composer": "Larry Carlton"
+  },
+  {
+    "Page": 207,
+    "Title": "Last Season",
+    "Composer": "Maria Schneider"
+  },
+  {
+    "Page": 212,
+    "Title": "Laura",
+    "Composer": "David Raskin"
+  },
+  {
+    "Page": 213,
+    "Title": "Let's Stay Together",
+    "Composer": "Willie Mitchell"
+  },
+  {
+    "Page": 215,
+    "Title": "Litha",
+    "Composer": "Chick Corea"
+  },
+  {
+    "Page": 217,
+    "Title": "Lonely Woman",
+    "Composer": "Horace Silver"
+  },
+  {
+    "Page": 219,
+    "Title": "Look At The Birdie",
+    "Composer": "Wayne Shorter"
+  },
+  {
+    "Page": 223,
+    "Title": "Love's Haunts",
+    "Composer": "Aydin Esen"
+  },
+  {
+    "Page": 228,
+    "Title": "Maiden Voyage",
+    "Composer": "Herbie Hancock"
+  },
+  {
+    "Page": 228,
+    "Title": "Lullaby In Rhythm",
+    "Composer": "Cochran/Sterling"
+  },
+  {
+    "Page": 239,
+    "Title": "Metamorphosis",
+    "Composer": "Horace Silver"
+  },
+  {
+    "Page": 243,
+    "Title": "Midnight Silence",
+    "Composer": "Kenny Kirkland"
+  },
+  {
+    "Page": 245,
+    "Title": "Monk On The Run",
+    "Composer": "Taras Kovayl"
+  },
+  {
+    "Page": 249,
+    "Title": "Moon And Sand",
+    "Composer": "Alec Wilder"
+  },
+  {
+    "Page": 252,
+    "Title": "Moonglow",
+    "Composer": "Will Hudson"
+  },
+  {
+    "Page": 254,
+    "Title": "Moonlight Serenade",
+    "Composer": "Glen Miller"
+  },
+  {
+    "Page": 255,
+    "Title": "My Girl",
+    "Composer": "William Smokey Robin"
+  },
+  {
+    "Page": 257,
+    "Title": "Never Said (Chan's Song)",
+    "Composer": "Herbie Hancock"
+  },
+  {
+    "Page": 259,
+    "Title": "New Boots",
+    "Composer": "Frank Gambale"
+  },
+  {
+    "Page": 261,
+    "Title": "Next Future",
+    "Composer": "Eddie Gomez"
+  },
+  {
+    "Page": 263,
+    "Title": "No Way Out",
+    "Composer": "Abel Pabon"
+  },
+  {
+    "Page": 267,
+    "Title": "Nowhere To Run",
+    "Composer": "Eddie Holland"
+  },
+  {
+    "Page": 269,
+    "Title": "Off Flow",
+    "Composer": "Dave Liebman"
+  },
+  {
+    "Page": 273,
+    "Title": "Green Dolphin St.",
+    "Composer": "Bronislau Kaper"
+  },
+  {
+    "Page": 275,
+    "Title": "One Bird, One Stone",
+    "Composer": "Don Grolnick"
+  },
+  {
+    "Page": 280,
+    "Title": "One Finger Snap",
+    "Composer": "Herbie Hancock"
+  },
+  {
+    "Page": 281,
+    "Title": "Ooo Baby Baby",
+    "Composer": "William Smokey Robin"
+  },
+  {
+    "Page": 283,
+    "Title": "Opus De Funk",
+    "Composer": "Horace Silver"
+  },
+  {
+    "Page": 285,
+    "Title": "Out A Day",
+    "Composer": "Franck Amsellem"
+  },
+  {
+    "Page": 287,
+    "Title": "Over The Rainbow",
+    "Composer": "Harold Arlen"
+  },
+  {
+    "Page": 289,
+    "Title": "Part-Time Lover",
+    "Composer": "Stevie Wonder"
+  },
+  {
+    "Page": 293,
+    "Title": "Pendulum",
+    "Composer": "Richie Beirach"
+  },
+  {
+    "Page": 294,
+    "Title": "Prelude To A Kiss",
+    "Composer": "Duke Ellington"
+  },
+  {
+    "Page": 295,
+    "Title": "Promise",
+    "Composer": "Chick Corea"
+  },
+  {
+    "Page": 297,
+    "Title": "Punjab",
+    "Composer": "Joe Henderson"
+  },
+  {
+    "Page": 299,
+    "Title": "Pyramid",
+    "Composer": "Horace Silver"
+  },
+  {
+    "Page": 302,
+    "Title": "Question Mark",
+    "Composer": "Nguyen Le"
+  },
+  {
+    "Page": 303,
+    "Title": "Rainland",
+    "Composer": "Paul Mccandless"
+  },
+  {
+    "Page": 309,
+    "Title": "Reach Out, I'll Be There",
+    "Composer": "Brian Holland"
+  },
+  {
+    "Page": 311,
+    "Title": "Real Life",
+    "Composer": "Jim Mcneely"
+  },
+  {
+    "Page": 314,
+    "Title": "Red's Blues",
+    "Composer": "Jerry Bergonzi"
+  },
+  {
+    "Page": 315,
+    "Title": "Relentless",
+    "Composer": "Bob Mintzer"
+  },
+  {
+    "Page": 323,
+    "Title": "Riddles",
+    "Composer": "Richie Beirach"
+  },
+  {
+    "Page": 325,
+    "Title": "Ritual",
+    "Composer": "Chick Corea"
+  },
+  {
+    "Page": 327,
+    "Title": "Ruby",
+    "Composer": "Heinz Roemheld"
+  },
+  {
+    "Page": 329,
+    "Title": "Sail Away",
+    "Composer": "Tom Harrell"
+  },
+  {
+    "Page": 332,
+    "Title": "Second Time Around, The (",
+    "Composer": "Jimmy Van Heusen"
+  },
+  {
+    "Page": 333,
+    "Title": "Serenata",
+    "Composer": "Leroy Anderson"
+  },
+  {
+    "Page": 336,
+    "Title": "Shadow Of Your Smile, Th",
+    "Composer": "eJohnny Mandel"
+  },
+  {
+    "Page": 337,
+    "Title": "Short Story",
+    "Composer": "Kenny Dorham"
+  },
+  {
+    "Page": 339,
+    "Title": "Since We Met",
+    "Composer": "Bill Evans"
+  },
+  {
+    "Page": 342,
+    "Title": "Smile Please",
+    "Composer": "Stevie Wonder"
+  },
+  {
+    "Page": 343,
+    "Title": "So Near, So Far",
+    "Composer": "Unknown Crombie"
+  },
+  {
+    "Page": 346,
+    "Title": "Solitude",
+    "Composer": "Duke Ellington"
+  },
+  {
+    "Page": 347,
+    "Title": "Speak Like A Child",
+    "Composer": "Herbie Hancock"
+  },
+  {
+    "Page": 349,
+    "Title": "Spring Is Here",
+    "Composer": "Richard Rodgers"
+  },
+  {
+    "Page": 350,
+    "Title": "Stairway To The Stars",
+    "Composer": "Matt Malneck"
+  },
+  {
+    "Page": 351,
+    "Title": "Star Eyes",
+    "Composer": "Don Raye/Gene Depaul"
+  },
+  {
+    "Page": 354,
+    "Title": "Stars Fell On Alabama",
+    "Composer": "Frank Perkins"
+  },
+  {
+    "Page": 355,
+    "Title": "Steepian Faith",
+    "Composer": "Kenny Kirkland"
+  },
+  {
+    "Page": 357,
+    "Title": "Step Lightly",
+    "Composer": "Joe Henderson"
+  },
+  {
+    "Page": 359,
+    "Title": "Stompin' At The Savoy",
+    "Composer": "Edgar Sampson"
+  },
+  {
+    "Page": 360,
+    "Title": "Street Of Dreams",
+    "Composer": "Victor Young"
+  },
+  {
+    "Page": 361,
+    "Title": "Sub Aqua",
+    "Composer": "Scott Henderson"
+  },
+  {
+    "Page": 366,
+    "Title": "Sugar",
+    "Composer": "Stanley Turrentine"
+  },
+  {
+    "Page": 367,
+    "Title": "Super Blue",
+    "Composer": "Bernard Ighner"
+  },
+  {
+    "Page": 369,
+    "Title": "Sweet Loraine",
+    "Composer": "Cliff Burwell"
+  },
+  {
+    "Page": 371,
+    "Title": "Sweet Love",
+    "Composer": "Anita Baker"
+  },
+  {
+    "Page": 373,
+    "Title": "Taking A Chance On Love",
+    "Composer": "Vernon Duke"
+  },
+  {
+    "Page": 375,
+    "Title": "That Girl",
+    "Composer": "Stevie Wonder"
+  },
+  {
+    "Page": 380,
+    "Title": "I'm Getting Sentimental Ov",
+    "Composer": "eGeorge Bassman"
+  },
+  {
+    "Page": 380,
+    "Title": "That Old Feeling (Blakey V",
+    "Composer": "Art Blakey"
+  },
+  {
+    "Page": 381,
+    "Title": "That Old Feeling (Standard)",
+    "Composer": "Les Brown"
+  },
+  {
+    "Page": 383,
+    "Title": "There's A Lull In My Life",
+    "Composer": "Mack Gordon"
+  },
+  {
+    "Page": 386,
+    "Title": "This Is New",
+    "Composer": "Kurt Weill"
+  },
+  {
+    "Page": 387,
+    "Title": "Tiny Capers",
+    "Composer": "Clifford Brown"
+  },
+  {
+    "Page": 389,
+    "Title": "Tokyo Dream",
+    "Composer": "Allan Holdsworth"
+  },
+  {
+    "Page": 393,
+    "Title": "Too High",
+    "Composer": "Stevie Wonder"
+  },
+  {
+    "Page": 398,
+    "Title": "Toy Tune",
+    "Composer": "Wayne Shorter"
+  },
+  {
+    "Page": 399,
+    "Title": "Tracks Of My Tears, The",
+    "Composer": "William Smokey Robin"
+  },
+  {
+    "Page": 401,
+    "Title": "Tuzz's Shadow",
+    "Composer": "Richard Tuttobene"
+  },
+  {
+    "Page": 403,
+    "Title": "Used To Be A Chacha",
+    "Composer": "Jaco Pastorius"
+  },
+  {
+    "Page": 406,
+    "Title": "Walk Of The Negress",
+    "Composer": "Robert Hurst"
+  },
+  {
+    "Page": 407,
+    "Title": "Warm Valley",
+    "Composer": "Duke Ellington"
+  },
+  {
+    "Page": 408,
+    "Title": "Wee",
+    "Composer": "Charlie Parker"
+  },
+  {
+    "Page": 409,
+    "Title": "What Are You Doing The R",
+    "Composer": "Michel Legrande"
+  },
+  {
+    "Page": 411,
+    "Title": "What's Going On?",
+    "Composer": "Marvin Gaye"
+  },
+  {
+    "Page": 413,
+    "Title": "What's Love Got To Do Wi",
+    "Composer": "Graham Lyle"
+  },
+  {
+    "Page": 415,
+    "Title": "When I Look In Your Eyes",
+    "Composer": "Leslie Bricusse"
+  },
+  {
+    "Page": 417,
+    "Title": "When Lights Are Low",
+    "Composer": "Bennie Carter"
+  },
+  {
+    "Page": 419,
+    "Title": "Where Are You",
+    "Composer": "Jimmy Mchugh"
+  },
+  {
+    "Page": 420,
+    "Title": "You Are So Beautiful",
+    "Composer": "Billy Preston"
+  },
+  {
+    "Page": 421,
+    "Title": "You Must Believe In Spring",
+    "Composer": "Michel Legrande"
+  },
+  {
+    "Page": 423,
+    "Title": "You Stepped Out Of A Dre",
+    "Composer": "aNacio Herb Brown"
+  },
+  {
+    "Page": 424,
+    "Title": "You've Changed",
+    "Composer": "Carl Fisher"
+  }
+]
