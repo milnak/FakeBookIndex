@@ -1,4 +1,4 @@
-'a','the' | ForEach-Object {
+'a','an','the' | ForEach-Object {
     $determiner = $_
     foreach ($file in (Get-ChildItem -File '*.json')) {
         $content = Get-Content  $file | ConvertFrom-Json
