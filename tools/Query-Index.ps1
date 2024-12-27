@@ -9,7 +9,8 @@ $contents = Get-ChildItem -File -LiteralPath $Path -Include '*.json' | ForEach-O
     $book = $_.BaseName
     Get-Content $_.FullName | ConvertFrom-Json | ForEach-Object {
         [PSCustomObject]@{
-            Location = ('{0} ({1})' -f $book, $_.Page)
+            Book     = $book
+            Page     = $_.Page
             Title    = $_.Title
             Composer = $_.Composer
         }
@@ -17,6 +18,13 @@ $contents = Get-ChildItem -File -LiteralPath $Path -Include '*.json' | ForEach-O
 }
 
 while ($true) {
-    $search = Read-Host -Prompt 'Title? '
-    $contents | Where-Object Title -like "*$search*" | Format-List
+    $search = Read-Host -Prompt 'Title (ctrl-c to exit)'
+    $contents | Where-Object Title -like "*$search*" | Format-List @{
+        Name       = 'Title'
+        Expression = { '{0} ({1})' -f $_.Title, $_.Composer }
+    },
+    @{
+        Name       = 'Location'
+        Expression = { '{0}, pg. {1}' -f $_.Book, $_.Page }
+    }
 }
